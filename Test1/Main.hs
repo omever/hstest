@@ -1,6 +1,6 @@
 module Main where
 
-import Text.CSV
+import Text.ParserCombinators.Parsec
 import Text.ParserCombinators.Parsec.Error
 
 data ObjectType = ObjectType {
@@ -20,11 +20,35 @@ data ObjectType = ObjectType {
 	internal_name :: String
 }
 
-parse = undefined
+csvFile = endBy line eol
+line = sepBy cell (char ',')
+cell = quotedCell <|> many (noneOf ",\n\r")
+
+quotedCell =
+    do char '"'
+       content <- many quotedChar
+       char '"' <?> "quote at end of cell"
+       return content
+
+quotedChar =
+        noneOf "\""
+    <|> try (string "\"\"" >> return '"')
+
+eol =   try (string "\n\r")
+    <|> try (string "\r\n")
+    <|> string "\n"
+    <|> string "\r"
+    <?> "end of line"
+
+parseCSV :: String -> Either ParseError [[String]]
+parseCSV input = parse csvFile "(unknown)" input
+
+samplesDir = "samples/"
+objectTypesFile = samplesDir ++ "object_types.csv"
 
 printParseError :: ParseError -> IO()
 printParseError x = putStrLn (show x)
 
 main = do
-	results <- parseCSVFromFile "object_types.csv"
-	either (\x -> printParseError x) (\x -> parse x) results
+        contents <- readFile objectTypesFile
+	either (\x -> printParseError x) (\x -> putStrLn $ show x) $ (parseCSV contents)
