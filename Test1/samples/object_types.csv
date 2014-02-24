@@ -1,4 +1,4 @@
-﻿"OBJECT_TYPE_ID","PARENT_ID","PICTURE_ID","NAME","DESCRIPTION","ISCLASS","ISSYSTEM","ISSEARCHABLE","ICON_ID","ALIAS","FLAGS","PROPERTIES","ISABSTRACT","INTERNAL_NAME"
+"OBJECT_TYPE_ID","PARENT_ID","PICTURE_ID","NAME","DESCRIPTION","ISCLASS","ISSYSTEM","ISSEARCHABLE","ICON_ID","ALIAS","FLAGS","PROPERTIES","ISABSTRACT","INTERNAL_NAME"
 "103008","4040863784013745448","894355","Video Conference Bridge","","","","1","253032","Device","0","EI_DESCRIPTOR=device_export.xml^EI_REP_DESCRIPTOR=repository device_export.xml^","",""
 "43512","49728","435512","Mainframe and IBM Midrange System","","","","1","253027","Device","0","EI_DESCRIPTOR=device_export.xml^EI_REP_DESCRIPTOR=repository device_export.xml^","",""
 "6090572157013852403","6090572157013852397","","ClassJob","","0","0","1","","","0","chooseObjType=no^defaulttab=_Parameters","0",""
