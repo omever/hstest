@@ -5,7 +5,6 @@ build-type: Simple
 license: GPL-3
 license-file: LICENSE
 maintainer: omever@gmail.com
-description:  
 author: GK
 data-dir: ""
  
@@ -14,4 +13,5 @@ executable Test1
     main-is: Main.hs
     buildable: True
     hs-source-dirs: .
+    other-modules: Attribute CSVCommon ObjectType
  
