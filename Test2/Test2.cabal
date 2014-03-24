@@ -1,17 +1,19 @@
-name: Test1
+name: Test2
 version: 0.1.0.0
 cabal-version: >=1.8
 build-type: Simple
 license: GPL-3
 license-file: LICENSE
 maintainer: omever@gmail.com
+description:  
 author: GK
 data-dir: ""
  
 executable Test1
-    build-depends: base ==4.6.*, csv ==0.1.*, parsec ==3.1.*
+    build-depends: base ==4.6.*, csv ==0.1.*, json >=0.7,
+                   parsec ==3.1.*, HTTP, HTTP-Simple >= 0.2
     main-is: Main.hs
     buildable: True
     hs-source-dirs: .
-    other-modules: NCConst Attribute CSVCommon ObjectType
+    other-modules: Jira JiraWeb CSVCommon
  

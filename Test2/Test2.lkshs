@@ -1,0 +1,18 @@
+Version of session file format:
+               1
+Time of storage:
+               "Mon Mar 24 15:52:05 Russian Standard Time 2014"
+Layout:        VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 1, detachedId = Nothing, detachedSize = Nothing}) (HorizontalP (TerminalP {paneGroups = fromList [], paneTabs = Just BottomP, currentPage = 1, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [("Browser",HorizontalP (VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = -1, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = -1, detachedId = Nothing, detachedSize = Nothing}) 397) (HorizontalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 242) 125)], paneTabs = Nothing, currentPage = 1, detachedId = Nothing, detachedSize = Nothing}) 509) 1111
+Population:    [(Just (ErrorsSt ErrorsState),[SplitP RightP,SplitP TopP]),(Just (FilesSt FilesState),[SplitP RightP,SplitP TopP]),(Just (InfoSt (InfoState Nothing)),[SplitP RightP,SplitP BottomP,GroupP "Browser",SplitP BottomP,SplitP BottomP]),(Just (BufferSt (BufferState "C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\Jira.hs" 94)),[SplitP LeftP]),(Just (BufferSt (BufferState "C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\JiraWeb.hs" 1582)),[SplitP LeftP]),(Just (LogSt LogState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferState "C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\Main.hs" 1377)),[SplitP LeftP]),(Just (ModulesSt (ModulesState 222 (PackageScope False,False) (Nothing,Nothing) (ExpanderState {packageExp = ([],[]), packageExpNoBlack = ([],[]), packageDExp = ([],[]), packageDExpNoBlack = ([],[]), workspaceExp = ([],[]), workspaceExpNoBlack = ([],[]), workspaceDExp = ([],[]), workspaceDExpNoBlack = ([],[]), systemExp = ([],[]), systemExpNoBlack = ([],[])}))),[SplitP RightP,SplitP BottomP,GroupP "Browser",SplitP BottomP,SplitP TopP]),(Just (SearchSt (SearchState {searchString = "", searchScope = SystemScope, searchMode = Prefix {caseSense = False}})),[SplitP RightP,SplitP TopP]),(Just (WorkspaceSt WorkspaceState),[SplitP RightP,SplitP BottomP,GroupP "Browser",SplitP BottomP,SplitP TopP]),(Just (BufferSt (BufferState "C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\test.json" 277)),[SplitP LeftP])]
+Window size:   (1920,1061)
+Completion size:
+               (750,400)
+Workspace:     Just "C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\Test2.lkshw"
+Active pane:   Just "JiraWeb.hs"
+Toolbar visible:
+               True
+FindbarState:  (True,FindState {entryStr = "", entryHist = [""], replaceStr = "", replaceHist = [], caseSensitive = False, entireWord = False, wrapAround = False, regex = False, lineNr = 1})
+Recently opened files:
+               ["C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\Jira.hs","C:\\Users\\kholomyev\\Documents\\GitHub\\hstest\\Test2\\test.json","C:\\Users\\kholomyev\\.leksah-0.12\\leksah-welcome\\src\\Main.hs"]
+Recently opened workspaces:
+               ["C:\\Users\\kholomyev\\leksah.lkshw"]

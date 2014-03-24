@@ -1,0 +1,5456 @@
+﻿{
+	"expand": "schema,names",
+	"startAt": 0,
+	"maxResults": 50,
+	"total": 1961,
+	"issues": [{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12698",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12698",
+		"key": "TES-270",
+		"fields": {
+			"summary": "1.2-2 Create relevant ISP cables on Sites 1.2 and 2 (89069) between active technology and ODFs",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-270/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1958",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-270/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": "2014-03-17T16:11:48.165+0100",
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12697",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12697",
+		"key": "TES-269",
+		"fields": {
+			"summary": "1.2-2 Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-269/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1959",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-269/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12696",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12696",
+		"key": "TES-268",
+		"fields": {
+			"summary": "1.2-2 Terminate all fibers on ODFs on sites 1.2 and 2 (89069)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-268/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1960",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-268/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12695",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12695",
+		"key": "TES-267",
+		"fields": {
+			"summary": "1.2-2 Check if ODFs are prepared on sites 1.2 and 2 (89069)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-267/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1961",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-267/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12694",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12694",
+		"key": "TES-266",
+		"fields": {
+			"summary": "1.2-2 Create ducts and optical cable (48 fibers) between 1.2 and 2 (89069)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-266/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1962",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-266/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12693",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12693",
+		"key": "TES-265",
+		"fields": {
+			"summary": "1.2-2 Create physical link between sites 1.2 and 2 (89069)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-265/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1963",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-265/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12692",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12692",
+		"key": "TES-264",
+		"fields": {
+			"summary": "1-1.2 Create relevant ISP cables on sites 1 (80099) and 1.2 between active technology and ODFs",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-264/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1964",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-264/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12691",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12691",
+		"key": "TES-263",
+		"fields": {
+			"summary": "1-1.2 Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-263/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1965",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-263/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12690",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12690",
+		"key": "TES-262",
+		"fields": {
+			"summary": "1-1.2 Terminate all fibers on ODFs on sites 1 (80099) and 1.2",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-262/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1966",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-262/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12689",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12689",
+		"key": "TES-261",
+		"fields": {
+			"summary": "1-1.2 Check if ODFs are prepared on sites 1 (80099) and 1.2",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-261/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1967",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-261/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12688",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12688",
+		"key": "TES-260",
+		"fields": {
+			"summary": "1-1.2 Create ducts and optical cable (48 fibers) between 1 (80099) and 1.2",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-260/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1968",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-260/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12687",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12687",
+		"key": "TES-259",
+		"fields": {
+			"summary": "1-1.2 Create physical link between sites 1 (80099) and 1.2",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-259/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1969",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-259/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12686",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12686",
+		"key": "TES-258",
+		"fields": {
+			"summary": "3-A Create relevant ISP cables on Site  3 (10297) between active technology and ODFs",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-258/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1970",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-258/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12685",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12685",
+		"key": "TES-257",
+		"fields": {
+			"summary": "3-A Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-257/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1971",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-257/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12684",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12684",
+		"key": "TES-256",
+		"fields": {
+			"summary": "3-A Terminate all fibers on ODFs on site 3 (10297)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-256/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1972",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-256/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12683",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12683",
+		"key": "TES-255",
+		"fields": {
+			"summary": "3-A Check if ODFs are prepared on site 3 (10297)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-255/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1973",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-255/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12682",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12682",
+		"key": "TES-254",
+		"fields": {
+			"summary": "3-A Create ducts and optical cable (48 fibers) between 3 (10297) and A",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-254/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1974",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-254/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12681",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12681",
+		"key": "TES-253",
+		"fields": {
+			"summary": "3-A Create physical link between sites 3 (10297) and A",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-253/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1975",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-253/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12680",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12680",
+		"key": "TES-252",
+		"fields": {
+			"summary": "1-4 Create relevant ISP cables on Sites  1 (80099) and 4 (89097) between active technology and ODFs",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-252/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1976",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-252/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12679",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12679",
+		"key": "TES-251",
+		"fields": {
+			"summary": "1-4 Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-251/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:15.000+0100",
+			"updated": "2014-03-17T10:36:15.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1977",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-251/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12678",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12678",
+		"key": "TES-250",
+		"fields": {
+			"summary": "1-4 Create Leased optical cable (2 fibers) between OP000007/splices and OP000008/splices",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-250/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1978",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-250/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12677",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12677",
+		"key": "TES-249",
+		"fields": {
+			"summary": "1-4 Create splices on OP000008",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-249/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1979",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-249/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12676",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12676",
+		"key": "TES-248",
+		"fields": {
+			"summary": "1-4 Create splice closure on OP000008",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-248/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1980",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-248/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12675",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12675",
+		"key": "TES-247",
+		"fields": {
+			"summary": "1-4 Create splices on OP000007",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-247/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1981",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-247/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12674",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12674",
+		"key": "TES-246",
+		"fields": {
+			"summary": "1-4 Create splice closure on OP000007",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-246/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1982",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-246/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12673",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12673",
+		"key": "TES-245",
+		"fields": {
+			"summary": "1-4 Terminate all fibers on ODFs on sites 1 (80099) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-245/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1983",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-245/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12672",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12672",
+		"key": "TES-244",
+		"fields": {
+			"summary": "1-4 Check if ODFs are prepared on sites 1 (80099) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-244/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1984",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-244/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12671",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12671",
+		"key": "TES-243",
+		"fields": {
+			"summary": "1-4 Create ducts and optical cable (48 fibers) between Site 4 (89097) and OP000007",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-243/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1985",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-243/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12670",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12670",
+		"key": "TES-242",
+		"fields": {
+			"summary": "1-4 Create ducts and optical cable (48 fibers) between Site  1 (80099) and OP000008",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-242/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1986",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-242/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12669",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12669",
+		"key": "TES-241",
+		"fields": {
+			"summary": "1-4 create optical point OP000008 - manhole for optical splice closure",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-241/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1987",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-241/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12668",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12668",
+		"key": "TES-240",
+		"fields": {
+			"summary": "1-4 create optical point OP000007 - manhole for optical splice closure",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-240/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1988",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-240/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12667",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12667",
+		"key": "TES-239",
+		"fields": {
+			"summary": "1-4 Create physical link between sites 1 (80099) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-239/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1989",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-239/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12666",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12666",
+		"key": "TES-238",
+		"fields": {
+			"summary": "Add WDM repeater",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-238/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1990",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-238/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12665",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12665",
+		"key": "TES-237",
+		"fields": {
+			"summary": "3-4 Create relevant ISP cables on Sites  3 (10297) and 4 (89097) between active technology and ODFs",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-237/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1991",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-237/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12664",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12664",
+		"key": "TES-236",
+		"fields": {
+			"summary": "3-4 Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-236/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1992",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-236/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12663",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12663",
+		"key": "TES-235",
+		"fields": {
+			"summary": "3-4 Create Leased optical cable (2 fibers) between OP000005/splices and OP000006/splices",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-235/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1993",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-235/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12662",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12662",
+		"key": "TES-234",
+		"fields": {
+			"summary": "3-4 Create splices on OP000006",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-234/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1994",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-234/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12661",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12661",
+		"key": "TES-233",
+		"fields": {
+			"summary": "3-4 Create splice closure on OP000006",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-233/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1995",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-233/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12660",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12660",
+		"key": "TES-232",
+		"fields": {
+			"summary": "3-4 Create splices on OP000005",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-232/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1996",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-232/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12659",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12659",
+		"key": "TES-231",
+		"fields": {
+			"summary": "3-4 Create splice closure on OP000005",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-231/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1997",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-231/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12658",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12658",
+		"key": "TES-230",
+		"fields": {
+			"summary": "3-4 Terminate all fibers on ODFs on sites 3 (10297) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-230/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1998",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-230/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12657",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12657",
+		"key": "TES-229",
+		"fields": {
+			"summary": "3-4 Check if ODFs are prepared on sites 3 (10297) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-229/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:14.000+0100",
+			"updated": "2014-03-17T10:36:14.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "1999",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-229/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12656",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12656",
+		"key": "TES-228",
+		"fields": {
+			"summary": "3-4 Create ducts and optical cable (48 fibers) between Site 4 (10297) and OP000006",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-228/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2000",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-228/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12655",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12655",
+		"key": "TES-227",
+		"fields": {
+			"summary": "3-4 Create ducts and optical cable (48 fibers) between Site 3 (10297) and OP000005",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-227/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2001",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-227/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12654",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12654",
+		"key": "TES-226",
+		"fields": {
+			"summary": "3-4 create optical point OP000006 - manhole for optical splice closure",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-226/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2002",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-226/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12653",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12653",
+		"key": "TES-225",
+		"fields": {
+			"summary": "3-4 create optical point OP000005 - manhole for optical splice closure",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-225/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2003",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-225/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12652",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12652",
+		"key": "TES-224",
+		"fields": {
+			"summary": "3-4 Create physical link between sites 3 (10297) and 4 (89097)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-224/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2004",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-224/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=oldrich.bednar",
+				"name": "oldrich.bednar",
+				"emailAddress": "oldrich.bednar@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "Oldrich Bednar",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12651",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12651",
+		"key": "TES-223",
+		"fields": {
+			"summary": "2-5.1 Print SD",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-223/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2005",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-223/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12650",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12650",
+		"key": "TES-222",
+		"fields": {
+			"summary": "2-5.1 Terminate all fibers on ODFs on sites 5.1 (89040)",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-222/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2006",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-222/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	},
+	{
+		"expand": "editmeta,renderedFields,transitions,changelog,operations",
+		"id": "12649",
+		"self": "https://jira.symbioss.sk/rest/api/2/issue/12649",
+		"key": "TES-221",
+		"fields": {
+			"summary": "2-5.1 Create optical splices in OP000009 and connect all 24 fibers to 89069 direction.",
+			"progress": {
+				"progress": 0,
+				"total": 0
+			},
+			"issuetype": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issuetype/10000",
+				"id": "10000",
+				"description": "This Issue Type is used to create Zephyr Test within Jira.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/issuetypes/task_agile.png",
+				"name": "Test",
+				"subtask": false
+			},
+			"votes": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-221/votes",
+				"votes": 0,
+				"hasVoted": false
+			},
+			"resolution": null,
+			"fixVersions": [],
+			"resolutiondate": null,
+			"timespent": null,
+			"reporter": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"aggregatetimeoriginalestimate": null,
+			"created": "2014-03-17T10:36:13.000+0100",
+			"updated": "2014-03-17T10:36:13.000+0100",
+			"description": null,
+			"priority": null,
+			"duedate": null,
+			"customfield_10001": null,
+			"issuelinks": [],
+			"customfield_10004": "2007",
+			"watches": {
+				"self": "https://jira.symbioss.sk/rest/api/2/issue/TES-221/watchers",
+				"watchCount": 0,
+				"isWatching": false
+			},
+			"customfield_10000": null,
+			"subtasks": [],
+			"customfield_10100": null,
+			"status": {
+				"self": "https://jira.symbioss.sk/rest/api/2/status/1",
+				"description": "The issue is open and ready for the assignee to start work on it.",
+				"iconUrl": "https://jira.symbioss.sk/images/icons/statuses/open.png",
+				"name": "Open",
+				"id": "1"
+			},
+			"labels": [],
+			"customfield_10005": null,
+			"workratio": -1,
+			"assignee": {
+				"self": "https://jira.symbioss.sk/rest/api/2/user?username=david.pollak",
+				"name": "david.pollak",
+				"emailAddress": "david.pollak@t-mobile.cz",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/useravatar?size=xsmall&avatarId=10122",
+					"24x24": "https://jira.symbioss.sk/secure/useravatar?size=small&avatarId=10122",
+					"32x32": "https://jira.symbioss.sk/secure/useravatar?size=medium&avatarId=10122",
+					"48x48": "https://jira.symbioss.sk/secure/useravatar?avatarId=10122"
+				},
+				"displayName": "David Pollak",
+				"active": true
+			},
+			"customfield_10200": null,
+			"aggregatetimeestimate": null,
+			"project": {
+				"self": "https://jira.symbioss.sk/rest/api/2/project/10202",
+				"id": "10202",
+				"key": "TES",
+				"name": "TestCases2",
+				"avatarUrls": {
+					"16x16": "https://jira.symbioss.sk/secure/projectavatar?size=xsmall&pid=10202&avatarId=10011",
+					"24x24": "https://jira.symbioss.sk/secure/projectavatar?size=small&pid=10202&avatarId=10011",
+					"32x32": "https://jira.symbioss.sk/secure/projectavatar?size=medium&pid=10202&avatarId=10011",
+					"48x48": "https://jira.symbioss.sk/secure/projectavatar?pid=10202&avatarId=10011"
+				}
+			},
+			"versions": [],
+			"environment": null,
+			"timeestimate": null,
+			"customfield_10300": null,
+			"aggregateprogress": {
+				"progress": 0,
+				"total": 0
+			},
+			"lastViewed": null,
+			"components": [],
+			"timeoriginalestimate": null,
+			"aggregatetimespent": null
+		}
+	}]
+}

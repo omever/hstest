@@ -1,0 +1,133 @@
+Issue Type,Key,Summary,Assignee,Reporter,Priority,Status,Resolution,Created,Updated,Due Date,Resolved,Linked Issues
+Task,NC-1182,Complete plan 2R Create NB 10297,Pavel Stamenov,Pavel Stamenov,Critical,Open,Unresolved,3/14/2014 15:02,3/16/2014 2:28,,,
+Story,NC-1181,Pegaplan SUC2 - not all affected cells are expoerted in UMTS modify export,Nikita Poselyanov,Cestmir Vrzacek,Major,Open,Unresolved,3/13/2014 17:56,3/13/2014 17:58,,,TC-444
+Story,NC-1177,ODF ports are not properly marked,Nikita Poselyanov,Juraj Marusic,Major,Open,Unresolved,3/12/2014 14:05,3/12/2014 14:05,,,
+Task,NC-1176,[TMCZ] Need information on where some parameters for PA Backhaul Service and OAM Backhaul Service should be taken,Juraj Marusic,Iryna Vladymyrova,Major,Open,Unresolved,3/11/2014 17:19,3/11/2014 17:23,13-Mar-14,,
+Sub-task,NC-1171,NC-878 Need to clarify naming for DSLAMs,Iryna Vladymyrova,Iryna Vladymyrova,Major,Reopened,Unresolved,3/11/2014 13:10,3/17/2014 13:54,11-Mar-14,,
+Sub-task,NC-1166,NC-477 [Design Clarification] Naming Rules changes clarification,Iryna Vladymyrova,Iryna Vladymyrova,Major,Open,Unresolved,3/7/2014 16:37,3/17/2014 12:56,10-Mar-14,,
+Task,NC-1158,OSP_ Using objects Physical Path and Phisical Link,Martin Handl,Ekaterina Kolupaeva,Minor,Open,Unresolved,3/5/2014 18:52,3/6/2014 20:18,,,
+Story,NC-1156,Structure of circuit folders should be agreed,Old?ich Bedn??,Petr Ja?ek,Major,Open,Unresolved,3/5/2014 13:56,3/5/2014 13:56,,,
+New Feature,NC-1155,Name of plan should be unique,Grigory Kholomyev,Petr Ja?ek,Major,Open,Unresolved,3/5/2014 12:42,3/13/2014 14:15,,,
+Task,NC-1149,[TMCZ] Need new Cramer dump,Martin Handl,Iryna Vladymyrova,Critical,Open,Unresolved,3/4/2014 15:05,3/11/2014 17:26,5-Mar-14,,
+Task,NC-1147,[Cramer Inbound] Need to finalize scope of objects needed for Phase 1 Go-Live,Juraj Marusic,Iryna Vladymyrova,Major,Open,Unresolved,2/28/2014 20:24,3/14/2014 20:12,10-Feb-14,,NC-945
+Story,NC-1138,Pegaplan SUC6 - Splitted antennas with the same antenna type,Egor Alekhov,Cestmir Vrzacek,Major,Open,Unresolved,2/26/2014 17:58,3/17/2014 18:13,,,"TC-424, TC-427"
+Story,NC-1137,"[Cramer Inbound] - ""NODE.SUBTYPE"" to distinguish card with card2cardtype = 1800000118 [Radio Transciever]",Ivan Egoshin,Ivan Egoshin,Major,Open,Unresolved,2/26/2014 16:29,3/10/2014 18:19,,,NC-772
+Story,NC-1135,"MW Bands, Channel Spacing, EQ Types and Equipment validation - backbone part",Old?ich Bedn??,Natalia Savateeva,Major,Open,Unresolved,2/25/2014 15:33,3/11/2014 13:24,,,
+Story,NC-1134,"MW Bands, Channel Spacing, EQ Types and Equipment validation - access part.",Natalia Savateeva,Natalia Savateeva,Major,Open,Unresolved,2/25/2014 15:29,3/13/2014 12:49,,,
+Story,NC-1133,TC configuration and graphical visualization,Nikita Poselyanov,Ji?? Petr?ela,Major,Open,Unresolved,2/24/2014 14:24,2/24/2014 16:17,,,
+Story,NC-1124,Validation of Ethernet Link,Nikita Poselyanov,Martin Handl,Critical,Open,Unresolved,2/19/2014 21:10,2/19/2014 21:10,,,
+Story,NC-1119,Protection for Server Trail,Old?ich Bedn??,Ivan Rozov,Major,Open,Unresolved,2/18/2014 14:50,2/27/2014 11:57,,,
+Story,NC-1113,RAN antennas are created on other locations,Ivan Egoshin,Juraj Marusic,Minor,Open,Unresolved,2/15/2014 22:56,3/14/2014 21:52,,,
+Story,NC-1103,"When processing not valid data in Cramer Inbound, the whole synchronization shall not fail",Ivan Egoshin,Juraj Marusic,Minor,Open,Unresolved,2/13/2014 3:20,3/11/2014 13:05,,,"TC-477, NC-1169"
+Task,NC-1102,Recovery steps description when Inbound integration fails,Nikita Poselyanov,Juraj Marusic,Major,Open,Unresolved,2/13/2014 3:12,2/13/2014 3:20,,,TC-477
+Bug,NC-1099,Planning - doesn't add modify action,Nikita Poselyanov,Jan Hucko,Major,Open,Unresolved,2/12/2014 20:13,2/26/2014 14:38,,,
+Story,NC-1097,Custom Report - Null pointer exception,Nikita Poselyanov,Jan Hucko,Minor,Open,Unresolved,2/12/2014 12:53,2/21/2014 13:53,,,
+Story,NC-1092,ODF connector / cards model in integration is not OK,Nikita Poselyanov,Juraj Marusic,Major,Open,Unresolved,2/11/2014 14:48,2/11/2014 14:48,,,
+Story,NC-1091,Splitters connectivity not properly migrated,Juraj Marusic,Juraj Marusic,Major,Reopened,Unresolved,2/11/2014 14:20,3/17/2014 18:08,,,
+Story,NC-1090,ODF incomplete migration,Iryna Vladymyrova,Juraj Marusic,Minor,Reopened,Unresolved,2/11/2014 14:02,3/17/2014 16:29,,,
+Story,NC-1089,Geographical view - not usable,Nikita Poselyanov,Ji?? Petr?ela,Major,Open,Unresolved,2/10/2014 20:14,3/14/2014 16:04,,,"TC-41, TC-203"
+Story,NC-1085,FDD Cells incomplete migration,Nikita Poselyanov,Juraj Marusic,Trivial,Open,Unresolved,2/10/2014 18:38,2/17/2014 21:44,,,
+Task,NC-1081,not possible approve plan Create BTS 80082,Grigory Kholomyev,Pavel Stamenov,Major,Reopened,Unresolved,2/9/2014 18:52,2/14/2014 14:49,,,
+Story,NC-1074,ODF FIST - other card types needed,Old?ich Bedn??,Old?ich Bedn??,Major,Open,Unresolved,2/7/2014 20:07,3/11/2014 18:43,,,"TC-152, TC-154, TC-282, TC-290, TC-291, TC-292, TC-293, TC-366, TC-367, NC-1065"
+New Feature,NC-1067,Pegaplan SUC1 - UMTS export contains Telefonica cells,Grigory Kholomyev,Cestmir Vrzacek,Major,Reopened,Unresolved,2/6/2014 18:16,3/13/2014 23:24,,,"TC-470, TC-448, TC-444, TC-439"
+Task,NC-1064,Duplicated SDH HO Trail by name in NC,Iryna Vladymyrova,Ivan Egoshin,Major,Open,Unresolved,2/6/2014 16:53,3/17/2014 12:27,,,
+Bug,NC-1058,It is not possibble to select Warehouse locality when moving the card from device to warehouse,Nikita Poselyanov,Old?ich Bedn??,Major,Open,Unresolved,2/4/2014 20:18,3/3/2014 21:41,,,TC-229
+Task,NC-1055,"Absence of graphical interface, this easy case is in text mode of NetCracker unnecesarily complicated.",Nikita Poselyanov,Milan St???,Major,Open,Unresolved,2/3/2014 19:36,2/5/2014 19:30,,,
+Bug,NC-1050,"after ""move card"" in slot ISP naming does not change",Andrey Chaliy,Pavel Stamenov,Major,Reopened,Unresolved,1/30/2014 21:28,2/28/2014 19:52,,,TC-344
+Story,NC-1048,Network Element: attribute Name by Owner,Old?ich Bedn??,Old?ich Bedn??,Trivial,Reopened,Unresolved,1/30/2014 17:43,2/27/2014 12:11,,,"TC-353, TC-145, TC-146, TC-147, TC-361"
+Bug,NC-1047,Configurator featuring gaps,Nikita Poselyanov,Pavel Stamenov,Major,Open,Unresolved,1/29/2014 19:13,3/4/2014 15:54,,,"TC-418, TC-419"
+Story,NC-1045,Equipment mapping confirmation,Grigory Kholomyev,Ivan Rozov,Major,Reopened,Unresolved,1/28/2014 19:17,3/17/2014 12:05,29-Jan-14,,
+Improvement,NC-1041,Making connection of ports by ISP - usability - Permanent Solution,Nikita Poselyanov,Peter Matourek,Major,Open,Unresolved,1/23/2014 21:01,2/27/2014 12:44,,,"NC-656, NC-729"
+Task,NC-1039,Leased Lines domain,Egor Alekhov,Egor Alekhov,Major,Open,Unresolved,1/23/2014 18:41,2/19/2014 20:42,24-Jan-14,,
+Story,NC-1036,Assignment or release of PTN3900 device to PTN NE deletes NMS name,Grigory Kholomyev,Ond?ej Hudousek,Minor,Reopened,Unresolved,1/22/2014 21:46,3/17/2014 18:43,,,
+Improvement,NC-1035,PTN3900 NE parameters sorted in random manner,Ekaterina Kolupaeva,Ond?ej Hudousek,Trivial,Open,Unresolved,1/22/2014 19:56,1/22/2014 20:49,,,
+Improvement,NC-1032,Port Channel hierarchy in Cramer,Nikita Poselyanov,Egor Alekhov,Critical,Open,Unresolved,1/21/2014 18:28,2/3/2014 13:39,24-Jan-14,,
+Story,NC-1031,CTU-CMI Payment,Juraj Marusic,Egor Alekhov,Major,Open,Unresolved,1/20/2014 12:12,3/14/2014 11:27,23-Jan-14,,
+Task,NC-1030,CTU-CMI Attributes,Egor Alekhov,Egor Alekhov,Major,Open,Unresolved,1/20/2014 11:02,2/12/2014 23:18,23-Jan-14,,
+Story,NC-1027,Cell attribute view,Ivan Rozov,Pavel Stamenov,Major,Reopened,Unresolved,1/17/2014 19:08,3/17/2014 18:54,,,
+Task,NC-1023,CTU-CMI Status,Egor Alekhov,Egor Alekhov,Major,Open,Unresolved,1/17/2014 17:03,2/13/2014 22:08,22-Jan-14,,
+Improvement,NC-1021,IB - incomplete migration of repeaters,Nikita Poselyanov,Pavel Stamenov,Minor,Open,Unresolved,1/16/2014 21:44,2/27/2014 12:23,,,NC-192
+Story,NC-1019,IB - MW devices are not assibned to netw. element,Michal Endr?t,Pavel Stamenov,Major,Reopened,Unresolved,1/16/2014 20:46,2/27/2014 12:11,,,
+New Feature,NC-1014,Transformation rules for CTU/CMI interface (CTU response),Ivan Rozov,Juraj Marusic,Major,Open,Unresolved,1/16/2014 14:13,3/15/2014 22:41,31-Mar-14,,
+Improvement,NC-1013,IB - technology sequence number migration unclear,Nikita Poselyanov,Pavel Stamenov,Major,Open,Unresolved,1/15/2014 20:49,3/17/2014 14:04,,,"NC-951, NC-1001"
+Story,NC-1011,IB - wrong NE NBS quantity creation,Grigory Kholomyev,Pavel Stamenov,Minor,Open,Unresolved,1/15/2014 19:34,2/27/2014 17:57,,,
+Task,NC-1000,"IB - RRU test, dependancy on NC-856,987",Nikita Poselyanov,Pavel Stamenov,Major,Open,Unresolved,1/10/2014 19:19,1/13/2014 16:01,,,
+Task,NC-996,configurator on test instance :7080 error,Petr Soukup,Pavel Stamenov,Major,Open,Unresolved,1/10/2014 18:20,3/12/2014 19:05,,,
+Story,NC-994,Assigning Network to MSPTP core router NE changes NE name,Ekaterina Kolupaeva,Ond?ej Hudousek,Minor,Reopened,Unresolved,1/9/2014 21:10,3/17/2014 18:17,,,
+New Feature,NC-987,TRX ports on devices and RRU redesign - follow up of NC-626,Nikita Poselyanov,Pavel Stamenov,Major,Reopened,Unresolved,1/9/2014 15:23,3/12/2014 16:00,,,"NC-626, TC-54, TC-55, TC-56, TC-57, TC-58, TC-59, TC-345, TC-403, TC-35, TC-199, TC-346, TC-387, TC-375, TC-386, NC-856"
+New Feature,NC-980,Missing correct card(DDF block SM48),Grigory Kholomyev,Cestmir Vrzacek,Major,In Progress,Unresolved,1/8/2014 18:28,3/13/2014 17:13,31-Jan-14,,"TC-208, TC-227, NC-323"
+Story,NC-969,Permission for Dismounted / Cancelled link migrated not completelly,Iryna Vladymyrova,Juraj Marusic,Major,Open,Unresolved,1/7/2014 19:51,2/27/2014 11:04,,,"NC-967, NC-968"
+Task,NC-964,"[TMCZ] ""The rack shelf is not empty."" during antenna delete attempt",Juraj Marusic,Evgeny Eremeev,Major,Reopened,Unresolved,1/7/2014 7:59,3/17/2014 17:14,,,
+Improvement,NC-958,Create SD - Linksheet for MW link,Old?ich Bedn??,Michal Endr?t,Major,Reopened,Unresolved,1/3/2014 18:49,2/27/2014 12:22,,,"TC-94, TC-134, TC-143"
+New Feature,NC-956,Not correctly propagate Azimuth Antennas A/Z in separate MW link from sectors,Old?ich Bedn??,Michal Endr?t,Major,Reopened,Unresolved,1/3/2014 16:19,2/25/2014 14:34,,,NC-707
+Bug,NC-955,assigning of TRX port from TRX OT - naming/usability,Nikita Poselyanov,Pavel Stamenov,Minor,Open,Unresolved,1/2/2014 20:19,2/19/2014 15:11,,,"TC-345, TC-403, TC-199, TC-387, TC-375, TC-386"
+Improvement,NC-954,select and set Freq Band works not properly,Nikita Poselyanov,Pavel Stamenov,Major,Reopened,Unresolved,1/2/2014 19:32,3/11/2014 16:28,,,"TC-345, TC-403, TC-199, TC-387, TC-375, TC-385, TC-386, TC-400, NC-753"
+New Feature,NC-951,Technology seq. within site must not be unique,Grigory Kholomyev,Pavel Stamenov,Major,Open,Unresolved,12/31/2013 17:06,3/13/2014 15:57,,,"TC-341, NC-683, NC-1001, NC-1013"
+Task,NC-945,[Cramer Inbound] Integrations vs Migration scope - finalization,Juraj Marusic,Eugeniy Molokov,Major,Reopened,Unresolved,12/25/2013 17:35,3/14/2014 20:04,7-Jan-14,,"NC-1147, NC-1146"
+New Feature,NC-931,Several types of racks not migrated,Ivan Egoshin,Juraj Marusic,Major,Reopened,Unresolved,12/20/2013 0:35,3/17/2014 16:35,,,"TC-481, NC-913"
+Story,NC-927,Default value of “User Groups” in “New IP Range dialog”,Nikita Poselyanov,Ond?ej Hudousek,Trivial,Open,Unresolved,12/19/2013 19:48,2/27/2014 10:55,,,
+Story,NC-925,About 2300 MW ODUs not migrated,Iryna Vladymyrova,Juraj Marusic,Major,Reopened,Unresolved,12/19/2013 19:28,3/15/2014 1:06,,,
+Task,NC-923,Please provide list values,Boris Liptak,Ivan Rozov,Major,Open,Unresolved,12/18/2013 17:02,1/24/2014 14:06,19-Dec-13,,
+Story,NC-919,No MW NE created for Alcatel 9500 MPR HW,Egor Alekhov,Juraj Marusic,Major,Reopened,Unresolved,12/18/2013 12:40,3/13/2014 10:49,,,"NC-917, NC-893"
+Story,NC-914,CTU/CMI - PDF link shall open in a new tab,Ivan Rozov,Petr Soukup,Major,Reopened,Unresolved,12/17/2013 21:19,3/4/2014 19:38,,,
+Task,NC-906,Performance problems when inserting cards to device,Martin Handl,Ond?ej Hudousek,Minor,Open,Unresolved,12/16/2013 19:39,1/24/2014 19:12,,,
+Task,NC-896,[Cramer Plans Migration] Expected Compiliton data is needed for plans in NPS,Andrey Gavrilov,Eugeniy Molokov,Major,Open,Unresolved,12/12/2013 15:04,3/6/2014 13:29,19-Dec-13,,
+New Feature,NC-893,MW Radio-Units with no MW Stations assigned,Grigory Kholomyev,Egor Alekhov,Major,Reopened,Unresolved,12/6/2013 14:42,3/3/2014 21:44,,,NC-919
+Task,NC-892,[TMCZ][Inbound][Physical Link] All Profinet E1 & HUA E1 Abis (Trail) are with unscoped End Node,Eugeniy Molokov,Eugeniy Molokov,Major,Open,Unresolved,12/6/2013 0:37,12/6/2013 20:58,,,
+New Feature,NC-883,Leased Line Price clarification,Egor Alekhov,Egor Alekhov,Major,Reopened,Unresolved,12/2/2013 16:51,3/4/2014 19:49,6-Dec-13,,NC-760
+Story,NC-881,HW for 2G Base station is missing,Ivan Egoshin,Juraj Marusic,Minor,Reopened,Unresolved,12/1/2013 1:16,3/17/2014 17:40,,,
+New Feature,NC-879,Location Preventive Maintenance,Grigory Kholomyev,Martin Handl,Major,In Progress,Unresolved,11/30/2013 1:07,1/24/2014 13:53,,,
+New Feature,NC-878,DSLAM approach,Grigory Kholomyev,Ivan Rozov,Major,Open,Unresolved,11/29/2013 17:49,1/27/2014 17:13,,,
+New Feature,NC-877,CMI Bulk Requests,Peter Matourek,Egor Alekhov,Minor,Reopened,Unresolved,11/29/2013 15:02,3/13/2014 23:22,2-Dec-13,,NC-759
+Task,NC-870,NC device library,Old?ich Bedn??,Old?ich Bedn??,Major,Open,Unresolved,11/27/2013 13:36,12/5/2013 18:40,,,
+Improvement,NC-868,DWDM 1830 PSS HW model,Ekaterina Kudryavtseva,Boris Liptak,Major,Reopened,Unresolved,11/26/2013 20:06,3/17/2014 18:47,,,"TC-257, TC-260, TC-268, TC-263"
+New Feature,NC-851,New type of locality used for OSP,Grigory Kholomyev,Juraj Marusic,Major,Reopened,Unresolved,11/22/2013 12:27,3/11/2014 16:37,,,NC-632
+Sub-task,NC-841,"NC-821 add new column to ""Possible lambdas"".",Nikita Poselyanov,Nikita Poselyanov,Major,Open,Unresolved,11/19/2013 17:33,12/5/2013 9:00,,,
+Improvement,NC-837,order of parameters for Location - follow up of NAS issue - NC-406,Old?ich Bedn??,Pavel Stamenov,Major,In Progress,Unresolved,11/18/2013 19:37,3/6/2014 13:07,,,"NC-676, NC-406"
+Sub-task,NC-828,NC-821 Lambda planning,Nikita Poselyanov,Andrey Chaliy,Major,Open,Unresolved,11/15/2013 15:51,11/18/2013 21:33,,,
+New Feature,NC-809,Location Life-Cycle,Grigory Kholomyev,Martin Handl,Major,In Progress,Unresolved,11/11/2013 20:45,2/4/2014 21:27,31-Mar-14,,
+Sub-task,NC-795,NC-617 Cells are not visible on tab Cells under locality,Nikita Poselyanov,Nikita Poselyanov,Major,Open,Unresolved,11/5/2013 18:05,11/5/2013 18:05,,,
+Sub-task,NC-794,NC-617 Frequency band is not possible insert into NPS because this field is part of TRX OT which is not created,Nikita Poselyanov,Nikita Poselyanov,Major,Open,Unresolved,11/5/2013 17:30,11/5/2013 18:05,,,
+Sub-task,NC-780,"NC-424 visible freq ranges for them the origion not clear....not in provided Excel, e.g. 739 665 - three freq ranges instead one",Nikita Poselyanov,Nikita Poselyanov,Minor,Open,Unresolved,11/1/2013 18:17,11/1/2013 18:17,,,
+Sub-task,NC-779,NC-424 Sub-antenna naming wrong implementation,Grigory Kholomyev,Nikita Poselyanov,Minor,Open,Unresolved,11/1/2013 18:14,11/1/2013 18:14,,,
+Story,NC-772,A lot of Port . Parent Key issues in the fallout report,Grigory Kholomyev,Juraj Marusic,Major,Reopened,Unresolved,10/31/2013 2:14,3/6/2014 10:51,,,NC-1137
+Bug,NC-760,Leased Lines information not migrated,Egor Alekhov,Juraj Marusic,Major,Reopened,Unresolved,10/30/2013 21:04,3/5/2014 14:30,,,NC-883
+Bug,NC-757,MW Links not properly migrated,Iryna Vladymyrova,Juraj Marusic,Major,Reopened,Unresolved,10/30/2013 20:57,3/17/2014 16:11,,,NC-692
+Task,NC-751,Missing BTS NE 89083 Bor_NovaHospoda,Milan St???,Milan St???,Minor,Open,Unresolved,10/25/2013 15:40,11/21/2013 12:28,,,
+New Feature,NC-738,Carriers for End points of COCH can not be OCH,Grigory Kholomyev,Boris Liptak,Major,Reopened,Unresolved,10/22/2013 17:16,3/13/2014 18:01,,,"TC-253, TC-254, TC-255, TC-256, NC-656, NC-740"
+Improvement,NC-729,Making connection of ports by ISP - usability - Temporary Solution,Nikita Poselyanov,Pavel Stamenov,Major,In Progress,Unresolved,10/21/2013 15:37,2/27/2014 19:31,,,"TC-37, TC-198, TC-344, TC-348, NC-1041"
+New Feature,NC-657,Network Elements - missing rules for automatic creating NMS Name,Grigory Kholomyev,Old?ich Bedn??,Major,Reopened,Unresolved,10/9/2013 15:45,3/13/2014 23:27,,,NC-196
+Story,NC-656,"Duplex connection in DWDM (RX-RX, TX-TX)",Ivan Rozov,Boris Liptak,Minor,Reopened,Unresolved,10/9/2013 15:44,2/27/2014 12:44,,,"TC-257, TC-258, TC-260, TC-261, TC-264, TC-268, TC-269, TC-271, TC-263, NC-738, NC-1041"
+Story,NC-649,Pegaplan SUC-5 Add new handovers to resorce inventory,Ivan Rozov,Cestmir Vrzacek,Major,Open,Unresolved,10/9/2013 11:40,3/13/2014 19:18,,,
+New Feature,NC-613,Pegaplan - SUC6 - Change set selection,Ivan Rozov,Cestmir Vrzacek,Minor,Open,Unresolved,10/2/2013 18:15,12/5/2013 8:02,,,NC-615
+Improvement,NC-608,Align rules of planning with tamplates,Grigory Kholomyev,Pavel Stamenov,Major,In Progress,Unresolved,9/27/2013 17:16,3/12/2014 22:47,,,"TC-197, TC-414, TC-419"
+Task,NC-605,Default access rights for All Users group,Petr Soukup,Petr Soukup,Major,Open,Unresolved,9/26/2013 19:59,11/22/2013 17:23,,,
+Sub-task,NC-582,NC-474 add OSP steps to TC scenario,David Pollak,Petr Ja?ek,Major,Open,Unresolved,9/13/2013 18:14,11/21/2013 12:47,,,
+Sub-task,NC-574,NC-473 Missing tests of Searches,Nikita Poselyanov,Nikita Poselyanov,Major,Open,Unresolved,9/11/2013 16:23,11/21/2013 12:42,,,
+New Feature,NC-570,Forbid RAN Antenna creation,Nikita Poselyanov,Pavel Stamenov,Minor,Reopened,Unresolved,9/10/2013 19:52,2/28/2014 19:50,,,TC-415
+New Feature,NC-532,Naming convenction for international sites,Nikita Poselyanov,Petr Ja?ek,Major,In Progress,Unresolved,9/9/2013 13:26,3/14/2014 17:00,,,
+Improvement,NC-514,NE_ID generator,Andrey Chaliy,Pavel Stamenov,Minor,Reopened,Unresolved,9/4/2013 20:01,1/23/2014 14:58,,,NC-753
+Story,NC-503,Can not change or modify parameters of links or channels after CTU/CMI,Ivan Rozov,Petr Ja?ek,Major,Reopened,Unresolved,9/3/2013 21:14,2/26/2014 14:53,,,NC-500
+New Feature,NC-478,logical TRX object,Ivan Rozov,Pavel Stamenov,Major,Open,Unresolved,9/2/2013 19:08,12/6/2013 19:24,,,NC-479
+New Feature,NC-477,Ports on Unknown Devices,Nikita Poselyanov,Egor Alekhov,Major,Reopened,Unresolved,9/2/2013 19:05,3/17/2014 18:22,,,
+Task,NC-473,2nd e2e testing scenario Phase 1,Petr Ja?ek,Petr Ja?ek,Major,Open,Unresolved,9/2/2013 17:03,11/21/2013 12:47,,,NC-530
+Story,NC-452,Expected Completition Date: is not possible to uptade,Nikita Poselyanov,Old?ich Bedn??,Minor,Reopened,Unresolved,8/30/2013 19:28,3/10/2014 13:27,,,NC-721
+Bug,NC-446,[TMCZ][UAT] Attributes 'Antenna A Elevation' and 'Antenna Z Elevation' should be calculated,Old?ich Bedn??,Nikita Poselyanov,Minor,Reopened,Unresolved,8/29/2013 23:41,2/28/2014 13:33,,,NC-592
+Task,NC-438,N?zvy karet a port? - Naming Convetions,Old?ich Bedn??,Old?ich Bedn??,Major,Open,Unresolved,8/29/2013 18:24,11/11/2013 19:36,,,"NC-741, NC-430"
+Bug,NC-434,[TMCZ][UAT] Hide not agreed devices from DL,Ivan Rozov,Nikita Poselyanov,Minor,Reopened,Unresolved,8/28/2013 22:09,2/14/2014 13:25,,,
+New Feature,NC-409,View of all plans related to desired locality,Grigory Kholomyev,Pavel Stamenov,Major,In Progress,Unresolved,8/23/2013 12:08,1/9/2014 14:24,,,
+Improvement,NC-406,order of parameters in Parameter TABs,Timur Mineev,Pavel Stamenov,Major,In Progress,Unresolved,8/21/2013 0:47,3/17/2014 16:12,,,"NC-435, TC-413, TC-39, TC-54, TC-55, TC-56, TC-57, TC-58, TC-59, TC-200, TC-349, TC-388, TC-393, TC-417, TC-410, NC-741, NC-695, NC-440, NC-524, NC-837, NC-445, NC-688"
+Task,NC-395,[SIT] GIS,Martin Handl,Grigory Kholomyev,Major,Reopened,Unresolved,8/20/2013 17:02,11/25/2013 18:56,23-Aug-13,,
+Task,NC-382,[SIT] LDAP connectivity Test,Grigory Kholomyev,Grigory Kholomyev,Major,Open,Unresolved,8/20/2013 16:46,9/26/2013 18:55,23-Aug-13,,
+Task,NC-342,TMCZ-1 - UAT schedule plan,Nikita Poselyanov,Nikita Poselyanov,Major,Open,Unresolved,7/30/2013 20:47,11/21/2013 12:52,20-Aug-13,,
+Improvement,NC-319,Creation of CTU request document,Old?ich Bedn??,Petr Soukup,Critical,Reopened,Unresolved,7/12/2013 21:03,2/14/2014 14:16,,,NC-709
+Task,NC-315,Real life examples of Pegaplan Import/Export files,Cestmir Vrzacek,Gennady Alekseev,Major,Reopened,Unresolved,7/11/2013 17:35,11/21/2013 11:45,15-Jul-13,,NC-44
+Sub-task,NC-298,NC-269 RAN NAS open questions,Ji?? Petr?ela,Juraj Marusic,Major,Open,Unresolved,7/4/2013 16:19,7/8/2013 16:55,,,
+Task,NC-293,Clarify to-be state of NC-Clarity-HPSM interaction for MSPTP planning,Ji?? Petr?ela,Gennady Alekseev,Critical,Open,Unresolved,7/2/2013 13:26,11/21/2013 12:56,,,
+Task,NC-273,Attributes for devices,Ivan Rozov,Egor Alekhov,Critical,Reopened,Unresolved,6/21/2013 13:48,1/24/2014 15:14,16-Dec-13,,"NC-431, NC-979"
+Task,NC-246,[NPS.CTU/CMI] Interface Specification for review,Grigory Kholomyev,Michal Endr?t,Major,In Progress,Unresolved,6/7/2013 14:44,12/20/2013 16:09,,,NC-291
+Task,NC-226,overall status of MW link,Nikita Poselyanov,Petr Ja?ek,Major,Reopened,Unresolved,5/31/2013 15:03,12/20/2013 16:01,,,
+Task,NC-207,Extended parameters for MW Antennas to DL,Grigory Kholomyev,Juraj Marusic,Major,Open,Unresolved,5/28/2013 16:22,11/21/2013 13:11,,,
+Task,NC-184,Define X2 Interface for connection between two eNodeBs,Ji?? Petr?ela,Martin Handl,Major,Open,Unresolved,5/23/2013 23:19,11/21/2013 13:47,,,
+Task,NC-134,LDAP synchronization approach,Grigory Kholomyev,Petr Soukup,Critical,Open,Unresolved,4/16/2013 19:43,12/4/2013 17:45,,,
+Generated at Mon Mar 17 16:30:32 CET 2014 by Grigory Kholomyev using JIRA 6.1.4#6159-sha1:44eaedef2e4a625c6c7183698b2468d4719c20dc. ,,,,,,,,,,,,

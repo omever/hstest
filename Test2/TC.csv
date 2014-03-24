@@ -1,0 +1,502 @@
+Issue Type,Key,Summary,Assignee,Reporter,Priority,Status,Resolution,Created,Updated,Due Date,Resolved,Linked Issues
+Test,TC-501,CTU Payment,Michal Endr?t,Petr Ja?ek,Major,Passed,Unresolved,2/3/2014 17:48,3/11/2014 15:40,7-Mar-14,,NC-1042
+Test,TC-500,Create and print SD Report - RAN,Pavel Stamenov,Petr Ja?ek,Major,Open,Unresolved,2/3/2014 17:46,2/14/2014 15:28,28-Mar-14,,
+Test,TC-499,Print Search Request (RV2-RQ-8),Pavel Stamenov,Petr Ja?ek,Major,Open,Unresolved,2/3/2014 17:42,2/14/2014 15:28,27-Mar-14,,
+Test,TC-498,INB SUC-3 - Compare NC data with NPS,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:57,,,"TC-326, NC-1049"
+Test,TC-497,INB SUC-3 - Check the Discrepancy Report,Pavel Stamenov,Juraj Marusic,Blocker,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:57,7-Feb-14,,NC-1049
+Test,TC-496,INB SUC-3 - Check the IDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:57,,,NC-1049
+Test,TC-495,INB SUC-3 - Check the SDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:57,,,NC-1049
+Test,TC-494,INB SUC-3 - Run the Cramer Inbound Dataflow,Juraj Marusic,Juraj Marusic,Blocker,Failed,Unresolved,1/21/2014 23:57,3/12/2014 17:58,,,"TC-477, TC-482, NC-1101, NC-1049"
+Test,TC-493,INB SUC-3 - Prepare data changes,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:58,,,NC-1049
+Test,TC-492,INB SUC-2 - Compare NC data with NPS,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:58,,,NC-1049
+Test,TC-491,INB SUC-2 - Check the Discrepancy Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-490,INB SUC-2 - Check the IDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-489,INB SUC-2 - Check the SDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-488,INB SUC-2 - Run the Cramer Inbound Dataflow,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-487,INB SUC-2 - Prepare data changes,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-486,INB SUC-1 - Compare NC data with NPS,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-485,INB SUC-1 - Check the Discrepancy Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-484,INB SUC-1 - Check the IDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 17:59,,,NC-1049
+Test,TC-483,INB SUC-1 - Check the SDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 18:00,,,NC-1049
+Test,TC-482,INB SUC-1 - Run the Cramer Inbound Initial Dataflow,Juraj Marusic,Juraj Marusic,,Failed,Unresolved,1/21/2014 23:57,3/12/2014 18:00,,,"TC-477, TC-494, NC-1049"
+Test,TC-481,INB SUC-4 - Compare NC data with NPS,Juraj Marusic,Juraj Marusic,,Started,Unresolved,1/21/2014 23:57,3/12/2014 18:00,,,"TC-477, NC-922, NC-1087, NC-931, NC-1088, NC-1086, NC-1049"
+Test,TC-480,INB SUC-4 - Check the Discrepancy Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 18:00,,,NC-1049
+Test,TC-479,INB SUC-4 - Check the IDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 18:00,,,"TC-477, NC-1049"
+Test,TC-478,INB SUC-4 - Check the SDB Fallout Report,Juraj Marusic,Juraj Marusic,,Open,Unresolved,1/21/2014 23:57,3/12/2014 18:03,,,"TC-477, NC-1049"
+Test,TC-477,INB SUC-4 - Run the Cramer Inbound Initial Dataflow,Juraj Marusic,Juraj Marusic,Blocker,Closed,Unresolved,1/21/2014 23:57,3/12/2014 18:03,,,"TC-478, TC-479, TC-481, TC-482, TC-494, NC-1103, NC-1102, NC-1049"
+Test,TC-476,PEGAPLAN SUC-4 Check imported data in Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-474, NC-812"
+Test,TC-475,PEGAPLAN SUC-4 Check Pegaplan Logfile.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-474, NC-812"
+Test,TC-474,PEGAPLAN SUC-4 Import exported files into Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-475, TC-476, NC-812, TC-452"
+Test,TC-473,PEGAPLAN SUC-3.2 Check imported data in Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/30/2014 18:39,7-Mar-14,,"TC-471, NC-812"
+Test,TC-472,PEGAPLAN SUC-3.2 Check Pegaplan Logfile.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/30/2014 18:39,7-Mar-14,,"TC-471, NC-812"
+Test,TC-471,PEGAPLAN SUC-3.2 Import exported files into Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/30/2014 18:39,7-Mar-14,,"TC-470, TC-472, TC-473, NC-812"
+Test,TC-470,PEGAPLAN SUC-3.2 Manual check of exported files. (GSM/UMTS/LTE),Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,3/13/2014 18:06,7-Mar-14,,"TC-471, NC-1179, NC-812, TC-469, NC-1067"
+Test,TC-469,PEGAPLAN SUC-3.2 Export of New sites,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/10/2014 0:59,7-Mar-14,,"TC-470, NC-812, TC-450, NC-1161"
+Test,TC-468,PEGAPLAN SUC-3.1 Check imported data in Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/27/2014 21:56,14-Mar-14,,"TC-466, NC-812"
+Test,TC-467,PEGAPLAN SUC-3.1 Check Pegaplan Logfile.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/27/2014 21:57,14-Mar-14,,"TC-466, NC-812"
+Test,TC-466,PEGAPLAN SUC-3.1 Import exported files into Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/27/2014 21:57,14-Mar-14,,"TC-467, TC-468, NC-812, TC-448, TC-447"
+Test,TC-465,PEGAPLAN SUC-2 Check imported data in Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,1/27/2014 21:57,7-Mar-14,,"TC-463, NC-812"
+Test,TC-464,PEGAPLAN SUC-2 Check Pegaplan Logfile.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,3/13/2014 17:19,7-Mar-14,,"TC-463, NC-812, NC-1180"
+Test,TC-463,PEGAPLAN SUC-2 Import exported files into Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,3/13/2014 17:19,7-Mar-14,,"TC-464, TC-465, NC-812, TC-443, TC-444, NC-1180"
+Test,TC-462,PEGAPLAN SUC-1 Check imported data in Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,2/25/2014 19:07,21-Mar-14,,"NC-1098, NC-1105, NC-1107, NC-812, TC-460"
+Test,TC-461,PEGAPLAN SUC-1 Check Pegaplan Logfile.,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,2/25/2014 19:07,21-Mar-14,,"NC-1098, NC-1105, NC-1107, NC-812, TC-460"
+Test,TC-460,PEGAPLAN SUC-1 Import exported files into Pegaplan.,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/4/2014 13:36,7-Feb-14,,"NC-1098, NC-1104, NC-1105, NC-1107, NC-1108, NC-1109, NC-812, NC-1106, TC-439, TC-461, TC-462, TC-438, NC-1038, NC-1024"
+Test,TC-459,PEGAPLAN SUC-5 rettrieve CM report repeatedly,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-457, TC-458, NC-812"
+Test,TC-458,PEGAPLAN SUC-5 Check report for Configuration Department.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-457, TC-459, NC-812"
+Test,TC-457,PEGAPLAN SUC-5 Check data relation with existing objects are correct.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-458, TC-459, NC-812, TC-435, TC-436"
+Test,TC-456,PEGAPLAN SUC-5 Check Validation report.,Cestmir Vrzacek,Cestmir Vrzacek,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"NC-812, TC-434"
+Test,TC-455,PEGAPLAN SUC-7 rettrieve CM report repeatedly,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,3/5/2014 16:30,28-Feb-14,,"NC-812, TC-430, TC-454, NC-1150"
+Test,TC-454,PEGAPLAN SUC-7 Check report for Configuration Department.,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,3/5/2014 16:31,28-Feb-14,,"NC-812, TC-432, TC-433, TC-429, TC-430, TC-455, NC-1150"
+Test,TC-453,PEGAPLAN ACC MW 89040_89096_1 Upgrade MW Link,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:57,1/24/2014 17:01,14-Mar-14,,
+Test,TC-452,PEGAPLAN SUC-4 Manual check of exported files. (GSM/UMTS/LTE),Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Started,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-474, TC-451"
+Test,TC-451,PEGAPLAN SUC-4 Export of HOs (HO_exchange.ho) via RUN Integration Report button at the following location Document Projects ->Integration Interfaces Catalogue -> Export of Cell Handover parameters,Cestmir Vrzacek,Cestmir Vrzacek,,Started,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,TC-452
+Test,TC-450,PEGAPLAN SUC-3.2 Upload file to SHARE DIR and import file into NC via RUN Intergation Button,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:18,7-Mar-14,,"TC-469, TC-449, NC-1165"
+Test,TC-449,PEGAPLAN SUC-3.2 Prepare text file with ChangeSet IDs ( IRNS) delimited by TABS,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,3/7/2014 19:15,14-Mar-14,,"TC-450, TC-427"
+Test,TC-448,PEGAPLAN SUC-3.1 Manual check of exported files. (GSM/UMTS/LTE),Cestmir Vrzacek,Cestmir Vrzacek,,Started,Unresolved,1/21/2014 23:57,3/13/2014 18:05,14-Mar-14,,"TC-466, NC-1179, TC-447, NC-1067"
+Test,TC-447,PEGAPLAN SUC-3.1 Export of ON-AIR Sites,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,3/13/2014 13:58,14-Mar-14,,"TC-466, TC-448, TC-446, NC-1178"
+Test,TC-446,PEGAPLAN SUC-3.1 Upload file to SHARE DIR and import file into NC via RUN Intergation Button,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:19,14-Mar-14,,"NC-646, NC-696, TC-445, TC-447, NC-1165"
+Test,TC-445,PEGAPLAN SUC-3.1 Prepare text file with site Ids delimited by TABS,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Started,Unresolved,1/21/2014 23:57,2/3/2014 19:38,14-Mar-14,,TC-446
+Test,TC-444,PEGAPLAN SUC-2 Manual check of exported files. (GSM/UMTS/LTE) Two files for each technology.,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/13/2014 18:06,7-Mar-14,,"TC-463, TC-443, TC-441, NC-1181, NC-1067, NC-1167"
+Test,TC-443,PEGAPLAN SUC-2 Export of Copletion files.,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/6/2014 17:32,7-Mar-14,,"TC-463, TC-444, TC-441, NC-1162"
+Test,TC-442,PEGAPLAN SUC-2 check information to exported cell (chapter 4.1.2 of IS doc),Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/6/2014 19:03,7-Mar-14,,"NC-678, NC-698, TC-441, NC-1162, NC-1163"
+Test,TC-441,PEGAPLAN SUC-2 Upload file to SHARE DIR and import file into NC via RUN Intergation Button,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,3/6/2014 19:02,7-Mar-14,,"TC-442, TC-443, TC-444, TC-440, NC-1165"
+Test,TC-440,PEGAPLAN SUC-2 Prepare text file with ChangeSet IDs ( IRNS) delimited by TABS,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,3/7/2014 19:17,7-Mar-14,,"TC-427, TC-441"
+Test,TC-439,PEGAPLAN SUC-1 Manual check of exported files. (GSM/UMTS/LTE),Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,3/4/2014 13:36,7-Feb-14,,"NC-1029, NC-1095, NC-1098, NC-1104, NC-1105, NC-1107, NC-1108, NC-1109, NC-1069, NC-1106, TC-460, TC-438, NC-1067, NC-1038, NC-1024"
+Test,TC-438,PEGAPLAN SUC-1 Export of all On-Air sites,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,2/12/2014 17:56,7-Feb-14,,"NC-1040, TC-460, TC-439, TC-437"
+Test,TC-437,PEGAPLAN SUC-1 Prepare/Load Data,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,2/18/2014 13:20,7-Feb-14,,TC-438
+Test,TC-436,PEGAPLAN SUC-5 Verify Data Mapping Result,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/10/2014 1:00,14-Mar-14,,"TC-457, NC-713, TC-435, TC-434"
+Test,TC-435,PEGAPLAN SUC-5 Verify Discrepency Report And Needed Changes,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/10/2014 1:00,14-Mar-14,,"TC-457, NC-713, TC-436, TC-434"
+Test,TC-434,PEGAPLAN SUC-5 Load HO_exchange.ho file,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,2/18/2014 13:27,14-Mar-14,,"TC-456, TC-435, TC-436"
+Test,TC-433,PEGAPLAN SUC-7 Verify Data Relation with Existing Objects,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:22,28-Feb-14,,"NC-640, NC-641, NC-884, NC-1140, NC-1142, NC-1157, NC-636, TC-429, TC-430, TC-454, NC-1143, NC-1141, NC-1144"
+Test,TC-432,PEGAPLAN SUC-7 Verify Result of Data Mapping,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:22,28-Feb-14,,"NC-640, NC-641, NC-884, NC-1140, NC-1142, NC-1157, NC-636, TC-429, TC-430, TC-454, NC-1143, NC-1141, NC-1144"
+Test,TC-431,PEGAPLAN SUC-7 Verify Validation Report,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,3/4/2014 15:12,28-Feb-14,,TC-429
+Test,TC-430,PEGAPLAN SUC-7 Verify Discrepency Report and select needed changes,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:10,28-Feb-14,,"TC-432, TC-433, TC-429, TC-454, TC-455"
+Test,TC-429,PEGAPLAN SUC-7 Load file cell_par.txt,Cestmir Vrzacek,Cestmir Vrzacek,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:11,28-Feb-14,,"TC-432, TC-433, TC-430, TC-431, TC-454"
+Test,TC-428,PEGAPLAN SUC-6 Verify Data Relation with Existing Objects,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,2/27/2014 13:13,28-Mar-14,,"NC-623, NC-612, TC-425, TC-423"
+Test,TC-427,PEGAPLAN SUC-6 Verify Data Mappinng Result in NC,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,3/5/2014 14:23,28-Mar-14,,"NC-1130, NC-625, NC-1126, NC-1127, NC-1128, NC-617, NC-624, TC-425, TC-423, TC-440, TC-449, NC-1138, NC-614"
+Test,TC-426,PEGAPLAN SUC-6 Verify Validation Report,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,2/24/2014 17:08,14-Feb-14,,TC-423
+Test,TC-425,PEGAPLAN SUC-6 Verify Reconsiliation report and select needed changes,Cestmir Vrzacek,Cestmir Vrzacek,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/24/2014 15:19,14-Feb-14,,"TC-427, TC-428, TC-423"
+Test,TC-424,PEGAPLAN SUC-6 Verify corectness of load of pp2net.io within NetCracker,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Failed,Unresolved,1/21/2014 23:57,3/5/2014 14:22,28-Mar-14,,"NC-1130, NC-1126, NC-1127, NC-1128, TC-423, NC-1138"
+Test,TC-423,PEGAPLAN SUC-6 Load file pp2net.io which contains antena information / exported from pegaplan,Cestmir Vrzacek,Cestmir Vrzacek,Blocker,Passed,Unresolved,1/21/2014 23:57,2/24/2014 17:09,14-Feb-14,,"TC-424, TC-427, TC-428, TC-425, TC-426, NC-1120"
+Test,TC-422,3GU Site 6.1 Modify Parameters of Site,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:12,,,
+Test,TC-421,3GU Site 6.1 Add System Modul/ FRGQ,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:13,,,
+Test,TC-420,3GU Site 6.1 harmonize as 2G exist. Conf.,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:13,,,
+Test,TC-419,4GU Site 6.1 exist.LTE 800/ expand to 4th AS (3rd sector splitted),Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,3/4/2014 15:53,28-Feb-14,,"NC-1047, NC-952, NC-1112, NC-608"
+Test,TC-418,4GU Site 6.1 addLTE 2600/ expand to 4th AS (3rd sector splitted),Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,3/4/2014 15:54,28-Feb-14,,"NC-1047, NC-952"
+Test,TC-417,2GU-C Modify Parameters of Site 6.1,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 21:00,,,NC-406
+Test,TC-416,2GU-C Site 6.1 On cards add 2TRx,Pavel Stamenov,Pavel Stamenov,Blocker,Failed,Unresolved,1/21/2014 23:57,3/4/2014 14:22,4-Mar-14,,"NC-952, NC-1148"
+Test,TC-415,2GU-C Site 6.1 Add Sector & Execute antenna replacement,Pavel Stamenov,Pavel Stamenov,Blocker,Failed,Unresolved,1/21/2014 23:57,3/4/2014 14:22,28-Feb-14,,"NC-952, NC-1148, NC-570"
+Test,TC-414,2GU-C Site 6.1 Add 4. th sector GSM/ add 1800,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,2/11/2014 21:29,,,"NC-952, NC-608"
+Test,TC-413,2GR-B Site 2.4 Verify apropriate atributes according NAS/Jira,Pavel Stamenov,Pavel Stamenov,Blocker,Failed,Unresolved,1/21/2014 23:57,2/28/2014 19:42,28-Feb-14,,"NC-406, NC-192"
+Test,TC-412,2GR-B Site 2.4 Reference to donnors cell,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 17:48,28-Feb-14,,NC-192
+Test,TC-411,2GR-B Site 2.4 Connect to SubAntennas,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 17:47,28-Feb-14,,NC-192
+Test,TC-410,2GR-B Site 2.4 Create generic device (Jira NC-192),Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,2/27/2014 17:45,7-Feb-14,,"NC-406, NC-192, NC-1139"
+Test,TC-409,2GR-B Site 2.4 Create Repeter NE,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:24,,,
+Test,TC-408,2GR-B Site 2.4 Create Antenna/ reference to AS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:27,,,"NC-424, NC-634"
+Test,TC-407,2GR-B Site 2.4 Create Antenna sector,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 17:53,28-Feb-14,,NC-417
+Test,TC-406,2GR-B Site 2.4 Create Pylon,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:27,,,"NC-454, NC-411"
+Test,TC-405,2GR-B Site 2.4 Create artificial locality (freemind),Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:28,,,
+Test,TC-404,NBTSR Site 3.2 Verify apropriate atributes of IPA Devices according NAS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:29,,,NC-626
+Test,TC-403,NBTSR Site 3.2 Create TRx port/ reference to TRx,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 20:59,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-402,NBTSR Site 3.2 Create IPA devices (Jira NC-273),Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:50,,,
+Test,TC-401,NBTSR Site 3.2 Verify apropriate atributes of NBTS according NAS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 14:51,,,
+Test,TC-400,NBTSR Site 3.2 Create TRx/ reference to cell/ reference to frequency band,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 18:02,14-Feb-14,,"NC-954, NC-595"
+Test,TC-399,NBTSR Site 3.2 Create Cell/ reference to SubAnt,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/29/2014 18:25,31-Jan-14,,NC-596
+Test,TC-398,NBTSR Site 3.2 Create Antenna/ reference to AS,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 21:08,28-Feb-14,,NC-952
+Test,TC-397,NBTSR Site 3.2 Create Antenna sector,Pavel Stamenov,Pavel Stamenov,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 18:06,28-Feb-14,,NC-952
+Test,TC-396,NBTSR Site 3.2 Create Pylon,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 16:49,31-Jan-14,,NC-417
+Test,TC-395,NBTSR Site 3.2 Create Site,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:09,,,
+Test,TC-394,NBTSR Create NE nBTS NBTSR Site 2.2 Create NE nBTS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:09,,,
+Test,TC-393,FEMTO Site 3.1 Test appropriate attributes according NAS/Jira,Radek Cerny,Radek Cerny,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 21:01,,,"NC-798, NC-626, NC-819, NC-406"
+Test,TC-392,FEMTO Create Site 3.1 Create IPA devices (Jira NC-273),Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:09,,,
+Test,TC-391,NBTSR Site 3.1 device add TRx expansion 1 --->2,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:09,,,
+Test,TC-390,NBTSR Site 3.1 device replacement - change type of IPA,Pavel Stamenov,Radek Cerny,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 21:24,4-Mar-14,,NC-866
+Test,TC-389,NBTSR Site 3.1 Create IPA devices (Jira NC-273),Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:10,,,
+Test,TC-388,NBTSR Site 3.1 test apropriate atributes according NAS/Jira,Radek Cerny,Radek Cerny,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 21:01,,,NC-406
+Test,TC-387,FEMTO Site 3.1 Create TRx port/ reference to TRx,Radek Cerny,Radek Cerny,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,1/29/2014 19:00,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-386,NBTSR Site 3.1 Create TRx port/ reference to TRx,Radek Cerny,Radek Cerny,Blocker,Passed,Unresolved,1/21/2014 23:57,2/27/2014 18:03,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-385,NBTSR Site 3.1 Create TRx/ reference to cell/ reference to frequency band,Radek Cerny,Radek Cerny,Blocker,Passed,Unresolved,1/21/2014 23:57,3/5/2014 20:23,14-Feb-14,,NC-954
+Test,TC-384,NBTSR Site 3.1 Create Cell/ reference to SubAnt,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/30/2014 16:57,31-Jan-14,,
+Test,TC-383,NBTSR Site 3.1 Create Antenna/ reference to AS,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:10,,,
+Test,TC-382,NBTSR Site 3.1 Create Antenna sector,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:10,,,
+Test,TC-381,NBTSR Site 3.1 Create Pylon,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:10,,,
+Test,TC-380,FEMTO Create NE AP Femto,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:11,,,
+Test,TC-379,NBTSR NE nBTS Create nBTS 80047,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:11,,,
+Test,TC-378,NBTSR Create Site A,Radek Cerny,Radek Cerny,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 23:00,,,
+Test,TC-377,NBTSR ? NE nBTS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:11,,,
+Test,TC-376,NBTSR NE nBTS 89083 Create IPA devices (Jira NC-273),Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:11,,,
+Test,TC-375,NBTSR NE nBTS 89083 Create TRx port/ reference to TRx,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,2/27/2014 18:03,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-374,NBTSR Create NE nBTS 89083,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:11,,,
+Test,TC-373,4GR-DISM process CTU 89096_89099_1,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:56,21-Mar-14,,NC-924
+Test,TC-372,4GR-DISM Cancel CTU 89096_89099_1,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:56,21-Mar-14,,NC-924
+Test,TC-371,4GR-DISM Cancel CTU 89040_89096_1,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:57,28-Mar-14,,
+Test,TC-370,4GR-DISM Print ACC MW 89096_89099_1,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:57,21-Feb-14,,NC-924
+Test,TC-369,4GR-DISM Dismount ACC MW 89096_89099_1,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,1/29/2014 13:32,21-Mar-14,,NC-924
+Test,TC-368,4GR-DISM Dismount ACC MW 89040_89096_1,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:57,1/24/2014 17:11,11-Apr-14,,
+Test,TC-367,4GR-OSP Create ODF 5.1,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:25,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-366,4GR-SDH Create ODF 2.1,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:25,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-365,4GR-OSP Assign MS 4-5,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,1/24/2014 20:12,21-Mar-14,,
+Test,TC-364,4GR-OSP Upgrade BB MW 4-5,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,1/24/2014 20:12,27-Feb-14,,
+Test,TC-363,3GR-SDH Create MS 4-5,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,2/6/2014 16:21,31-Jan-14,,
+Test,TC-362,3GR Create DEV ADM A,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:57,2/4/2014 20:10,6-Feb-14,,
+Test,TC-361,3GR-SDH Create NE ADM A,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,2/4/2014 15:26,31-Jan-14,,NC-1048
+Test,TC-360,4GR-A-SDH Create DEV ADM 5,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/24/2014 20:08,,,
+Test,TC-359,4GR-A-SDH Create NE ADM 5,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/24/2014 19:58,,,
+Test,TC-358,LTE-SDH Upgrade DEV SDH 5,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:57,2/6/2014 16:14,6-Feb-14,,
+Test,TC-357,4GR-A-SDH Create NE SDH 5,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/24/2014 19:58,,,
+Test,TC-356,4GR-A-SDH Create DEV ADM 4,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/24/2014 20:08,,,
+Test,TC-355,4GR-A-SDH Create NE ADM 4,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/24/2014 19:58,,,
+Test,TC-354,LTE-SDH Upgrade DEV SDH 4,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:57,2/6/2014 16:14,6-Feb-14,,
+Test,TC-353,4GR-A-SDH Create NE SDH 4,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:57,1/30/2014 17:45,,,NC-1048
+Test,TC-352,4G-OSP Create Optical Point OP000010,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:31,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-351,4G-OSP Create Optical Point OP000009,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:31,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-350,4GR-A Site 6.1 Insert BBU/ LBBPd cards/ LMPT/ RFU cards,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:12,,,
+Test,TC-349,4GR-A Site 6.1 ? test apropriate atributes according NAS/Jira,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 20:58,,,"NC-798, NC-626, NC-819, NC-406"
+Test,TC-348,4GR-A Site 6.1 Create ISP cables/ also between RRUs and LBBPd,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/30/2014 15:02,,,NC-729
+Test,TC-347,4GR-A Site 6.1 Create BBU/ LBBPd cards/ LMPT in general RACK,Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,2/28/2014 19:44,14-Mar-14,,NC-873
+Test,TC-346,4GR-A Site 6.1 Create RRU/ devices all types,Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:57,2/28/2014 19:36,13-Mar-14,,"NC-987, NC-856"
+Test,TC-345,4GR-A Site 6.1 Create TRx port/ reference to TRx,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 21:02,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-344,4GR-A Site 6.1 Create ISP cables/ also between racks(cards),Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,2/25/2014 16:02,,,"NC-1050, NC-729"
+Test,TC-343,4GR-A Site 6.1 Create rack BTS3900/ BTS3900A/ BTS3900L,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:12,,,
+Test,TC-342,4GR-A Create NE eNB 89001 techn. 800/ RRU,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:12,,,
+Test,TC-341,4GR-A Create NE eNB 89099,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:57,1/27/2014 20:59,,,NC-951
+Test,TC-340,4GR-A Create NE eNB 89040,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:12,,,
+Test,TC-339,4GR-A Create NE eNB 89096,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:13,,,
+Test,TC-338,4GR-A Create NE eNB 89097,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:13,,,
+Test,TC-337,4GR-A Create NE eNB 10297,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:13,,,
+Test,TC-336,4GR-A Create NE eNB 89052,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:13,,,
+Test,TC-335,4GR-A Create NE eNB 89034,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:14,,,
+Test,TC-334,4GR-A Create NE eNB 89083,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:14,,,
+Test,TC-333,4GR-A Create NE eNB 89069,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:14,,,
+Test,TC-332,4GR-A Create NE eNB 80082,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:14,,,
+Test,TC-331,3GR Create NE RNC A MORAN RNC,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:57,2/10/2014 20:19,7-Feb-14,,
+Test,TC-330,2G-OSP Create ODF A,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,1/24/2014 20:12,27-Feb-14,,
+Test,TC-329,2G-OSP Create Locality A,Old?ich Bedn??,Old?ich Bedn??,Blocker,Open,Unresolved,1/21/2014 23:57,1/24/2014 20:12,27-Feb-14,,
+Test,TC-328,4GR-OSP Upgrade ACC MW 6-89001 8x28x2+Eth 70 Mb,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,1/29/2014 13:34,4-Apr-14,,"NC-924, NC-929"
+Test,TC-327,4GR-OSP Upgrade ACC MW 89069-89001 8x28x2+Eth 150 Mb,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,1/29/2014 13:35,28-Feb-14,,NC-924
+Test,TC-326,4GR-A-OSP Upgrade ACC MW 5-5.1,MIlan Franek,MIlan Franek,Blocker,Passed,Unresolved,1/21/2014 23:57,3/5/2014 20:30,7-Feb-14,,"TC-498, NC-485, NC-469"
+Test,TC-325,4GR-A-OSP Upgrade ACC MW 1-1.1 add new GbE capacity (keep LL E1),Old?ich Bedn??,MIlan Franek,,Open,Unresolved,1/21/2014 23:57,2/26/2014 17:40,,,"NC-485, NC-486, NC-469"
+Test,TC-324,4GR-OSP Upgrade ACC MW 2-2.2 8x2+Eth 150 Mb,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:57,1/29/2014 13:35,4-Apr-14,,"NC-924, NC-929"
+Test,TC-323,4GR-OSP Upgrade ACC MW 89069_89083_1 4x28x2+Eth 70 Mb,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:57,2/18/2014 13:58,11-Apr-14,,NC-929
+Test,TC-322,3GR-A Assign Iub 6.1-2 (Agg. Site ),Miroslav Hejl,Ji?? Petr?ela,Blocker,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:39,7-Mar-14,,
+Test,TC-321,3GR-B Assign 2. Logical NB Iub 5.1-5 (Agg. Site ),Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:39,7-Mar-14,,
+Test,TC-320,3GR-B Assign 1. Logical NB Iub 5.1-5 (Agg. Site ),Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:38,7-Mar-14,,
+Test,TC-319,3GR-B Assign Iub 5-4 (Agg. site),Miroslav Hejl,Ji?? Petr?ela,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:38,7-Mar-14,,
+Test,TC-318,3GR-B Assign Iub Local site na Agg. bod?.,Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:38,7-Mar-14,,
+Test,TC-317,3GR-B Assign Local BTS to Iub,Martin Handl,Ji?? Petr?ela,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:38,,,
+Test,TC-316,3GR-B Assign Local NB to Iub,Petr Ja?ek,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:38,7-Mar-14,,
+Test,TC-315,3GR-A Assign A-bis 89069->80099,Petr Ja?ek,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:57,3/6/2014 18:37,7-Mar-14,,
+Test,TC-314,3GR-WDM Create Site 1 ISP Cables 1-4,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,"NC-1066, NC-1068"
+Test,TC-313,3GR-WDM Create Site 1 Physical links on site 1-4,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-312,3GR-WDM Create Site 4 ISP Cables 1-4,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-311,3GR-WDM Create Site 4 Physical links on site 1-4,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-310,3GR-WDM Create Site 4 ISP Cables 3.3-4,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-309,3GR-WDM Create Site 4 Physical links on site 3.3-4,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-308,3GR-WDM Create Site 3.3 ISP Cables 3.3-4,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-307,3GR-WDM Create Site 3.3 Physical links on site 3.3-4,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-306,3GR-WDM Create Site 3.3 ISP Cables 3-3.3,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-305,3GR-WDM Create Site 3.3 Physical links on site 3-3.3,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-304,3GR-WDM Create Site 3 ISP Cables 3-3.3,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-303,3GR-WDM Create Site 3 Physical links on site 3-3.3,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-302,3GR-WDM Create Site 3 ISP Cables 2-3,Boris Liptak,Boris Liptak,,Started,Unresolved,1/21/2014 23:57,2/26/2014 15:54,5-Mar-14,,NC-1066
+Test,TC-301,3GR-WDM Create Site 3 Physical links on site 2-3,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-300,3GR-WDM Create Site 2 ISP Cables 2-3,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/14/2014 15:30,19-Feb-14,,
+Test,TC-299,3GR-WDM Create Site 2 Physical links on site 2-3,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-298,3GR-WDM Create Site 2 ISP Cables 1-2,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/14/2014 15:30,19-Feb-14,,
+Test,TC-297,3GR-WDM Create Site 2 Physical links on site 1-2,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-296,3GR-WDM Create Site 1 ISP Cables 1-2,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/14/2014 15:30,19-Feb-14,,
+Test,TC-295,3GR-WDM Create Site 1 Physical links on site 1-2,Boris Liptak,Boris Liptak,,Open,Unresolved,1/21/2014 23:57,2/24/2014 15:09,7-Mar-14,,
+Test,TC-294,2G-OSP Upgrade ODF 1,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/12/2014 18:23,6-Feb-14,,NC-1065
+Test,TC-293,2G-OSP Upgrade ODF 4,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:46,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-292,2G-OSP Create ODF 3.3,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:46,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-291,2G-OSP Create ODF 3,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:46,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-290,2G-OSP Upgrade ODF 2,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 12:52,6-Feb-14,,"NC-1074, NC-1065"
+Test,TC-289,2G-OSP Create Optical Point OP000008,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:31,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-288,2G-OSP Create Optical Point OP000007,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:32,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-287,2G-OSP Create Optical Point OP000006,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:32,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-286,2G-OSP Create Optical Point OP000005,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:32,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-285,2G-OSP Create Optical Point OP000004,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:32,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-284,2G-OSP Create Optical Point OP000003,David Pollak,David Pollak,,Passed,Unresolved,1/21/2014 23:57,2/4/2014 19:31,31-Jan-14,,"NC-630, NC-631, NC-633, NC-632"
+Test,TC-283,3G-WDM Print SD,Boris Liptak,Boris Liptak,Blocker,Open,Unresolved,1/21/2014 23:57,1/24/2014 19:14,14-Feb-14,,
+Test,TC-282,3G-WDM WDM Connections to ODFs,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:46,14-Feb-14,,"NC-1074, NC-741, NC-1065"
+Test,TC-281,3G-WDM Mapping Assign STM-16 PhysCon to COCh for all (1-2/2-3/3-4/4-1),Boris Liptak,Boris Liptak,Blocker,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:33,14-Feb-14,,
+Test,TC-280,3G-WDM Assign OMS 4-1 -> OTS 4-1 Define Add Patch Elements,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:49,31-Jan-14,,NC-702
+Test,TC-279,3G-WDM Assign OMS 3-4 -> OTS 3-3.3 and OTS 3.3-4 Define Add Patch Elements,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:48,31-Jan-14,,NC-702
+Test,TC-278,3G-WDM Assign OMS 2-3 -> OTS 2-3 Define Add Patch Elements,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:49,31-Jan-14,,NC-702
+Test,TC-277,3G-WDM Assign OMS 1-2 -> OTS 1-2 Define Add Patch Elements,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:49,31-Jan-14,,NC-702
+Test,TC-276,3G-WDM Create DWDM OTS 4-1,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:14,,,
+Test,TC-275,3G-WDM Create DWDM OTS 3.3-4,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:15,,,
+Test,TC-274,3G-WDM Create DWDM OTS 3-3.3,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:15,,,
+Test,TC-273,3G-WDM Create DWDM OTS 2-3,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:15,,,
+Test,TC-272,3G-WDM Create DWDM OTS 1-2,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:15,,,
+Test,TC-271,3G-B_OSP DEV WDM 3.3 Create DEV WDM Repeater,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:47,17-Feb-14,,"NC-660, NC-658, NC-664, NC-656, NC-668"
+Test,TC-270,3G-WDM WDM DEV 4 Assign Devices to NEs,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:16,,,
+Test,TC-269,3G-WDM WDM DEV 4 Create ISP cabling,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:47,17-Feb-14,,"NC-660, NC-664, NC-693, NC-656"
+Test,TC-268,3G-WDM Create WDM DEV 4,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/17/2014 18:47,17-Feb-14,,"NC-660, NC-658, NC-664, NC-656, NC-668, NC-868"
+Test,TC-267,3G-WDM NE WDM 3.3 Create NE WDM Repeater,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/10/2014 16:08,,,NC-1084
+Test,TC-266,3G-WDM Create Site 22088 (3.3),Boris Liptak,Boris Liptak,Blocker,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:16,,,
+Test,TC-265,3G-WDM WDM DEV 3 Assign Devices to NEs,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:16,,,
+Test,TC-264,3G-WDM WDM DEV 3 Create ISP cabling,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:48,17-Feb-14,,"NC-660, NC-664, NC-693, NC-656"
+Test,TC-263,3G-WDM Create WDM DEV 3,Boris Liptak,Boris Liptak,Blocker,Failed,Unresolved,1/21/2014 23:57,3/17/2014 18:47,17-Feb-14,,"NC-660, NC-658, NC-664, NC-656, NC-668, NC-868"
+Test,TC-262,3G-WDM WDM DEV 2 Assign Devices to NEs,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:16,,,
+Test,TC-261,3G-WDM WDM DEV 2 Create ISP cabling,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:48,17-Feb-14,,"NC-660, NC-664, NC-693, NC-656"
+Test,TC-260,3G-WDM Create WDM DEV 2,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/17/2014 18:46,17-Feb-14,,"NC-660, NC-658, NC-664, NC-656, NC-668, NC-868"
+Test,TC-259,3G-WDM WDM DEV 1 Assign Devices to NEs,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:17,,,
+Test,TC-258,3G-WDM WDM DEV 1 Create ISP cabling,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:48,17-Feb-14,,"NC-660, NC-664, NC-693, NC-656"
+Test,TC-257,3G-WDM Create WDM DEV 1,Boris Liptak,Boris Liptak,,Failed,Unresolved,1/21/2014 23:57,3/17/2014 18:44,17-Feb-14,,"NC-660, NC-658, NC-664, NC-1082, NC-656, NC-668, NC-868"
+Test,TC-256,3G-WDM Create COch 4-1 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,3/10/2014 0:54,17-Feb-14,,"NC-738, NC-740"
+Test,TC-255,3G-WDM Create COch 3-4 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,3/10/2014 0:53,17-Feb-14,,"NC-738, NC-740"
+Test,TC-254,3G-WDM Create COch 2-3 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,3/10/2014 0:53,17-Feb-14,,"NC-738, NC-740"
+Test,TC-253,3G-WDM Create COch 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,3/10/2014 0:53,17-Feb-14,,"NC-738, NC-740"
+Test,TC-252,3G-WDM Assign Och 4-1 new Lambda 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:24,7-Feb-14,,NC-736
+Test,TC-251,3G-WDM Assign Och 3-4 new Lambda 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:24,7-Feb-14,,NC-736
+Test,TC-250,3G-WDM Assign Och 2-3 new Lambda 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:24,7-Feb-14,,NC-736
+Test,TC-249,3G-WDM Assign Och 1-2 new Lambda 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:32,7-Feb-14,,NC-736
+Test,TC-248,3G-WDM Create Och 4-1 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:22,7-Feb-14,,NC-703
+Test,TC-247,3G-WDM Create Och 3-4 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:22,7-Feb-14,,NC-703
+Test,TC-246,3G-WDM Create Och 2-3 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:22,7-Feb-14,,NC-703
+Test,TC-245,3G-WDM Create Och 1-2 (SDH/ PTN),Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:22,7-Feb-14,,NC-703
+Test,TC-244,3G-WDM Create OMS 4-1,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:46,31-Jan-14,,"NC-702, NC-705"
+Test,TC-243,3G-WDM Create OMS 3-4,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:47,31-Jan-14,,"NC-702, NC-705"
+Test,TC-242,3G-WDM Create OMS 2-3,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:46,31-Jan-14,,"NC-702, NC-705"
+Test,TC-241,3G-WDM Create OMS 1-2,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:46,31-Jan-14,,"NC-702, NC-705"
+Test,TC-240,3G-WDM Create NE WDM 4,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:17,,,
+Test,TC-239,3G-WDM Create NE WDM 3,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:17,,,
+Test,TC-238,3G-WDM Create NE WDM 2,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:17,,,
+Test,TC-237,3G-WDM Create NE WDM 1,Boris Liptak,Boris Liptak,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:17,,,
+Test,TC-236,3G-WDM Map SDH to WDM,Boris Liptak,Boris Liptak,Blocker,Passed,Unresolved,1/21/2014 23:57,2/12/2014 12:18,14-Feb-14,,
+Test,TC-235,3G-WDM Print SD,Old?ich Bedn??,Old?ich Bedn??,Blocker,Open,Unresolved,1/21/2014 23:57,3/7/2014 20:13,27-Feb-14,,TC-234
+Test,TC-234,3G-WDM SDH Connections to ODFs,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,3/7/2014 20:13,21-Feb-14,,"TC-233, TC-235"
+Test,TC-233,3G-SDH_UPG Map Map MW to SDH,Old?ich Bedn??,Old?ich Bedn??,Blocker,Open,Unresolved,1/21/2014 23:57,3/7/2014 20:12,19-Feb-14,,"TC-232, TC-234, TC-155"
+Test,TC-232,3G-SDH_UPG Relocate BB MW 1-5 to BB MW 4-5,Peter Matourek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,3/12/2014 18:09,21-Mar-14,,"TC-231, TC-233"
+Test,TC-231,3G-SDH_UPG Replan je to ??st ringu a cel? trafic toho SDH,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,3/7/2014 20:11,19-Feb-14,,"TC-232, TC-153, TC-160"
+Test,TC-230,3G-SDH_UPG Assign MS 1-5 -> MS 1-4/ MS 4-5,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,3/7/2014 18:37,19-Feb-14,,"TC-153, TC-160"
+Test,TC-229,3GR-SDH Upgrade SDH DEV 5,Old?ich Bedn??,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:57,2/4/2014 20:20,4-Feb-14,,"NC-1058, NC-662, NC-666"
+Test,TC-228,3GR-SDH Create SDH DEV 4,Old?ich Bedn??,Old?ich Bedn??,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:38,4-Feb-14,,"NC-662, NC-666"
+Test,TC-227,3G-B-SDH_UPG Create DDF,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:49,,,"NC-980, NC-981, NC-983"
+Test,TC-226,3GR-SDH Create SDH DEV 3,Petr Ja?ek,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:57,2/18/2014 15:36,4-Feb-14,,"NC-1063, NC-662, NC-666"
+Test,TC-225,3GR-SDH Upgrade SDH DEV 2,Old?ich Bedn??,Old?ich Bedn??,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:38,4-Feb-14,,"NC-662, NC-666"
+Test,TC-224,3GR-SDH Upgrade SDH DEV 1,Old?ich Bedn??,Old?ich Bedn??,,Passed,Unresolved,1/21/2014 23:57,2/6/2014 12:38,4-Feb-14,,"NC-662, NC-666"
+Test,TC-223,3G-SDH_UPG Change MS,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,3/7/2014 20:08,19-Feb-14,,
+Test,TC-222,3GR-SDH Create MS 1-4,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,2/4/2014 15:26,31-Jan-14,,
+Test,TC-221,3GR-SDH Create MS 3-4,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,2/4/2014 15:25,31-Jan-14,,
+Test,TC-220,3GR-SDH Create MS 2-3,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,2/4/2014 15:25,31-Jan-14,,
+Test,TC-219,3GR-SDH Create NE SDH 4,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,1/30/2014 18:17,31-Jan-14,,
+Test,TC-218,3GR-SDH Create NE SDH 3,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:57,1/30/2014 18:17,31-Jan-14,,
+Test,TC-217,3GR-A Create 89001-01#Iub,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:18,,,
+Test,TC-216,3GR-B Create 89040-02#Iub 2. Logical NB,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:18,,,
+Test,TC-215,3GR-B Create 89040-01#Iub 1. Logical NB,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:18,,,
+Test,TC-214,3GR-B Create 89096-01#Iub,Petr Ja?ek,Milan St???,,Passed,Unresolved,1/21/2014 23:57,2/19/2014 14:48,5-Feb-14,,"NC-1062, NC-1060"
+Test,TC-213,3GR-B Create NE BSC 4,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:18,,,
+Test,TC-212,3GR-B Upgrade Site 4 upgrade site capacity for future extensions,Old?ich Bedn??,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:57,1/24/2014 19:47,19-Feb-14,,
+Test,TC-211,3GR-B Create 89097-01#Iub,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:18,,,
+Test,TC-210,3GR-B Create 10297-01#Iub Local NB,Petr Ja?ek,Milan St???,,Passed,Unresolved,1/21/2014 23:57,2/19/2014 14:37,5-Feb-14,,NC-1062
+Test,TC-209,3GR-B Create 10297-01#Abis Local BTS,Milan St???,Milan St???,,Passed,Unresolved,1/21/2014 23:57,2/5/2014 18:15,5-Feb-14,,
+Test,TC-208,3GR-B Create DDF,Cestmir Vrzacek,Cestmir Vrzacek,,Failed,Unresolved,1/21/2014 23:57,3/11/2014 14:50,,,"NC-980, NC-981, NC-983"
+Test,TC-207,3GR-B Create NE BSC 3,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:57,1/31/2014 20:19,,,
+Test,TC-206,3GR-B Create NE RNC 3,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:19,,,
+Test,TC-205,3GR-A Create 89069-01#Iub,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:19,,,
+Test,TC-204,3GR-A Create NE RNC 1,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:19,,,
+Test,TC-203,3GR- Open Sites/ NE(NB NE) lookong for RNC localities aggregation sites and new possible links,Ji?? Petr?ela,Ji?? Petr?ela,,Failed,Unresolved,1/21/2014 23:56,2/14/2014 19:01,,,NC-1089
+Test,TC-202,3GR-A Create Site 6.1 radio modules for 3G,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:20,,,
+Test,TC-201,3GR-A Create/Insert Site 6.1 syst?m modul pro 3G,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:20,,,
+Test,TC-200,3GR-A Site 6.1 test apropriate atributes according NAS/Jira,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 20:57,,,"NC-798, NC-626, NC-819, NC-406"
+Test,TC-199,3GR-A Create Site 6.1 TRx port/ reference to TRx,Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:56,1/29/2014 17:32,,,"NC-955, NC-987, NC-954, NC-595"
+Test,TC-198,3GR-A Create Site 6.1 ISP cables/ between modules,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 20:57,,,NC-729
+Test,TC-197,3GR-A Create Site 6.1 configuration as AS-IS (MORAN),Pavel Stamenov,Pavel Stamenov,Blocker,Closed,Unresolved,1/21/2014 23:56,3/17/2014 16:57,17-Mar-14,,"NC-873, NC-608"
+Test,TC-196,3GR-A Create NE NB 89001,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:20,,,
+Test,TC-195,3GR-B Create NE NB 89040.2,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:20,,,
+Test,TC-194,3GR-B Create NE NB 89040.1,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:20,,,
+Test,TC-193,3GR-B Create NE NB 89096,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-192,3GR-B Create NE BTS 89097,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-191,3GR-B Create NE NB 89097,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-190,3GR-B Create Site 89097,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-189,3GR-B Create NB 89069,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-188,3GR-B Create NE NB 10297,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:21,,,
+Test,TC-187,3GR-B Create NE BTS 10297,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:22,,,
+Test,TC-186,3GR-B Create Site 10297,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:22,,,
+Test,TC-185,3GR-A Create NE NB 89069,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:22,,,
+Test,TC-184,2GR-A terminate MW 80099_89069_1 (1-2),MIlan Franek,MIlan Franek,,Open,Unresolved,1/21/2014 23:56,3/12/2014 18:08,,,"NC-1136, NC-485, NC-486, NC-469"
+Test,TC-183,2GR-A Reassign Abis 2 From Leased PDH MW to optical link,Radim ?im?k,Radim ?im?k,Blocker,Open,Unresolved,1/21/2014 23:56,2/26/2014 18:07,14-Mar-14,,
+Test,TC-182,2GR-C Assign Abis 6.1 2.1-5,Petr Ja?ek,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:37,7-Mar-14,,
+Test,TC-181,2GR-B Assign Abis 5.1 2.1-5,Ji?? Petr?ela,Ji?? Petr?ela,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:36,7-Mar-14,,
+Test,TC-180,2GR-B Assign Abis 2.3-2.2;2.2-2;2-5,Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:36,7-Mar-14,,
+Test,TC-179,2GR-B Assign Abis 2.1 2.1-2;2-5,Miroslav Hejl,Ji?? Petr?ela,Blocker,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:36,7-Mar-14,,
+Test,TC-178,2GR-A Assign Abis 1.1->1,Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:36,7-Mar-14,,
+Test,TC-177,2GR-SDH Create Site 4-MW 2-5 ISP Cables,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:28,,,
+Test,TC-176,2GR-SDH Create Site 4-MW 2-5 Physical links on site,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:28,,,
+Test,TC-175,2GR-SDH Create Site 3-MW 2-5 ISP Cables,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:27,,,
+Test,TC-174,2GR-SDH Create Site 3-MW 2-5 Physical links on site,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:27,,,
+Test,TC-173,2GR-SDH Create Site 3-MW 1-5 ISP Cables,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:27,,,
+Test,TC-172,2GR-SDH Create Site 3-MW 1-5 Physical links on site,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:26,,,
+Test,TC-171,2GR-SDH Create Site 2-MW 1-5 ISP Cables,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:26,,,
+Test,TC-170,2GR-SDH Create -MW 1-5 Physical links on site,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:26,,,
+Test,TC-169,2GR-SDH Create Site 2-SDH 5 (89096) ISP Cables,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:10,14-Feb-14,,
+Test,TC-168,2GR-SDH Create Site 6.1-SDH 5 (89096) Physical links on site,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:12,14-Feb-14,,
+Test,TC-167,2GR-SDH Create Site 5.1-SDH 2 (89069) ISP Cables,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:14,14-Feb-14,,
+Test,TC-166,2GR-SDH Create Site 2.3-SDH 2 (89069) Physical links on site,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:15,14-Feb-14,,
+Test,TC-165,2GR-SDH Create Site 2.1-SDH 1 (80099) ISP Cables,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:16,14-Feb-14,,
+Test,TC-164,2GR-SDH Create Site 1.1-SDH 1 (80099) Physical links on site,Old?ich Bedn??,Old?ich Bedn??,,Skip Test,Unresolved,1/21/2014 23:56,2/7/2014 11:25,,,
+Test,TC-163,2GR-SDH Assign Site 1-SDH 2 (89069),Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:16,14-Feb-14,,
+Test,TC-162,2GR-SDH Create Physical Link 1-2,Petr Ja?ek,Old?ich Bedn??,,Open,Unresolved,1/21/2014 23:56,2/24/2014 14:17,14-Feb-14,,
+Test,TC-161,2GR-SDH Create Fiber Route 1-2,Old?ich Bedn??,Old?ich Bedn??,Blocker,Open,Unresolved,1/21/2014 23:56,1/24/2014 19:46,14-Feb-14,,
+Test,TC-160,2GR-SDH Assign MS 1-5,Old?ich Bedn??,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:56,3/7/2014 20:10,14-Feb-14,,"TC-230, TC-231"
+Test,TC-159,2GR-SDH Assign MS 2-5,Old?ich Bedn??,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 19:46,14-Feb-14,,
+Test,TC-158,2GR-SDH Create CDF 5,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:56,2/6/2014 12:40,6-Feb-14,,
+Test,TC-157,2GR-SDH Create BB MW 1-5,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:56,2/24/2014 14:17,12-Feb-14,,"NC-684, NC-691, NC-689, NC-685, NC-687, NC-683, NC-686, NC-688"
+Test,TC-156,2GR-SDH Create BB MW 2-5,Old?ich Bedn??,Old?ich Bedn??,,Started,Unresolved,1/21/2014 23:56,2/24/2014 14:18,12-Feb-14,,"NC-684, NC-691, NC-689, NC-685, NC-687, NC-683, NC-686, NC-688"
+Test,TC-155,2GR-SDH Create DEV SDH 5,Old?ich Bedn??,Old?ich Bedn??,,Passed,Unresolved,1/21/2014 23:56,3/7/2014 19:30,4-Feb-14,,"TC-233, NC-682, NC-662, NC-665, NC-667, NC-663, NC-666"
+Test,TC-154,2GR-SDH Create ODF 2,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:56,3/11/2014 12:52,6-Feb-14,,"NC-1074, NC-975, NC-1065"
+Test,TC-153,2GR-SDH Create DEV SDH 2,Old?ich Bedn??,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:56,3/7/2014 20:10,4-Feb-14,,"TC-230, TC-231, NC-682, NC-662, NC-665, NC-667, NC-663, NC-666"
+Test,TC-152,2GR-SDH Create ODF 1,Old?ich Bedn??,Old?ich Bedn??,,Failed,Unresolved,1/21/2014 23:56,3/11/2014 12:51,6-Feb-14,,"NC-1074, NC-975, NC-1065"
+Test,TC-151,2GR-SDH Create DEV SDH 1,Petr Ja?ek,Old?ich Bedn??,,Conditionally Passed,Unresolved,1/21/2014 23:56,2/18/2014 15:35,4-Feb-14,,"NC-682, NC-1063, NC-662, NC-665, NC-667, NC-663, NC-666"
+Test,TC-150,2GR-SDH Create MS 1-5,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,2/4/2014 14:42,31-Jan-14,,"NC-653, NC-661, NC-655"
+Test,TC-149,2GR-SDH Create MS 2-5,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,1/30/2014 20:11,31-Jan-14,,"NC-653, NC-661, NC-655"
+Test,TC-148,2GR-SDH Create MS 1-2,Nikita Poselyanov,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,1/30/2014 20:16,31-Jan-14,,"NC-653, NC-661, NC-655"
+Test,TC-147,2GR-SDH Create NE SDH 5,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,1/30/2014 18:16,31-Jan-14,,"NC-651, NC-652, NC-1048"
+Test,TC-146,2GR-SDH Create NE SDH 2,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,1/30/2014 18:16,31-Jan-14,,"NC-651, NC-652, NC-1048"
+Test,TC-145,2GR-SDH Create NE SDH 1,Old?ich Bedn??,Old?ich Bedn??,Blocker,Passed,Unresolved,1/21/2014 23:56,1/30/2014 18:09,31-Jan-14,,"NC-651, NC-652, NC-1048"
+Test,TC-144,2GR-A Create Create ACC LL 80099_89069_1 (1-2),MIlan Franek,MIlan Franek,,Passed,Unresolved,1/21/2014 23:56,2/3/2014 19:17,31-Jan-14,,"NC-485, NC-486, NC-469"
+Test,TC-143,2GR-C MW 89001_89069_1 Create and Print SD report,Michal Endr?t,Michal Endr?t,,Failed,Unresolved,1/21/2014 23:56,2/4/2014 14:43,7-Feb-14,,"NC-1044, NC-958"
+Test,TC-142,2GR-C MW 89001_89069_1 Create CTU request Again,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:22,,,
+Test,TC-141,2GR-C MW 89001_89069_1 Generate Softcode,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-140,2GR-C MW 89001_89099_1 Answer CTU and import back to NPS,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,2/4/2014 19:17,7-Feb-14,,
+Test,TC-139,2GR-C MW 89001_89099_1 Create Fake out put CTU files (CTU permission PDF file),Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,2/3/2014 17:42,7-Feb-14,,
+Test,TC-138,2GR-C MW 89001_89099_1 In CTU case,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 19:34,31-Jan-14,,
+Test,TC-137,2GR-C MW 89001_89099_1 Create CTU request,Michal Endr?t,Michal Endr?t,Blocker,Started,Unresolved,1/21/2014 23:56,2/26/2014 17:28,7-Mar-14,,NC-827
+Test,TC-136,2GR-C MW 89001_89099_1 Create CTU report MW links after CMI,Michal Endr?t,Michal Endr?t,Blocker,Started,Unresolved,1/21/2014 23:56,2/26/2014 17:29,14-Mar-14,,NC-997
+Test,TC-135,2GR-C MW 89001_89099_1 Approve Plan - ???,Michal Endr?t,Michal Endr?t,,Open,Unresolved,1/21/2014 23:56,2/18/2014 13:59,11-Apr-14,,
+Test,TC-134,2GR-C MW 89001_89099_1 Create and Print SD report,Michal Endr?t,Michal Endr?t,,Failed,Unresolved,1/21/2014 23:56,2/7/2014 12:38,14-Mar-14,,NC-958
+Test,TC-133,2GR-C MW 89001_89099_1 Answer CTU/CMI and import back to NPS,Michal Endr?t,Michal Endr?t,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/29/2014 13:39,14-Mar-14,,NC-929
+Test,TC-132,2GR-C MW 89001_89099_1 Create Artificial out put CTU/CMI files (CTU permission PDF file/ CMI project PDF file/ CMI project XLS file),Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-131,2GR-C MW 89001_89099_1 In CMI case,Michal Endr?t,Michal Endr?t,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 21:10,7-Mar-14,,NC-863
+Test,TC-130,2GR-C MW 89001_89099_1 Review CTU/CMI requests,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-129,2GR-C MW 89001_89099_1 Create CMI request,Michal Endr?t,Michal Endr?t,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:56,1/29/2014 13:43,7-Mar-14,,NC-863
+Test,TC-128,2GR-C MW 89001_89099_1 Generate Softcode,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-127,2GR-C MW 89001_89069_1 Answer CTU and import back to NPS,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-126,2GR-C MW 89001_89069_1 Create Fake out put CTU files (CTU permission PDF file),Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:23,,,
+Test,TC-125,2GR-C MW 89001_89069_1 Create CTU request,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:24,,,
+Test,TC-124,2GR-C MW 89001_89069_1 Answer CTU/CMI and import back to NPS,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:24,,,
+Test,TC-123,2GR-C MW 89001_89069_1 Create ARTIFICIAL out put CTU/CMI files (CTU permission PDF file/ CMI project PDF file/ CMI project XLS file),Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:24,,,
+Test,TC-122,2GR-C MW 89001_89069_1 Rejection CTU request,Michal Endr?t,Michal Endr?t,Blocker,Open,Unresolved,1/21/2014 23:56,1/24/2014 17:07,28-Mar-14,,
+Test,TC-121,2GR-C MW 89001_89069_1 Review CTU/CMI requests,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:24,,,
+Test,TC-120,2GR-C MW 89001_89069_1 Create IDU and populate it,Michal Endr?t,Michal Endr?t,,Conditionally Passed,Unresolved,1/21/2014 23:56,3/12/2014 18:08,31-Jan-14,,NC-1043
+Test,TC-119,2GR-C MW 89001_89069_1 Assign Devices to NEs,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:24,,,
+Test,TC-118,2GR-C MW 89001_89069_1 Create NE in Site A and Site Z,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-117,2GR- MW 89096_89099_1 Create IDU and populate it,Michal Endr?t,Michal Endr?t,,Conditionally Passed,Unresolved,1/21/2014 23:56,3/12/2014 18:07,31-Jan-14,,"NC-1043, NC-924"
+Test,TC-116,2GR- MW 89096_89099_1 Create NE in Site A and Site Z,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-115,2GR-C MW 89001_89099_1 Create IDU and populate it,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-114,2GR-C MW 89001_89099_1 Assign Devices to NEs,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-113,2GR-C MW 89001_89099_1 Create NE in Site A and Site Z,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-112,2GR-B MW 89040_89096_1 Approve Plan - ???,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:25,,,
+Test,TC-111,2GR-B MW 89040_89096_1 Create and Print SD report,Richard Stanek,Richard Stanek,,Failed,Unresolved,1/21/2014 23:56,2/26/2014 18:19,28-Feb-14,,
+Test,TC-110,2GR-B MW 89040_89096_1 Create IDU and populate it,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:26,,,
+Test,TC-109,2GR-B MW 89040_89096_1 Select Frequency Channel for Radio-Units,Richard Stanek,Richard Stanek,Blocker,Failed,Unresolved,1/21/2014 23:56,2/26/2014 18:19,28-Feb-14,,NC-989
+Test,TC-108,2GR-B MW 89040_89096_1 Assign Devices to NEs,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:26,,,
+Test,TC-107,2GR-B MW 89040_89096_1 Create ODU,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:26,,,
+Test,TC-106,2GR-B MW 89040_89096_1 Associate MW Antenna with MW Sector,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:26,,,
+Test,TC-105,2GR-B MW 89040_89096_1 Create MW Antennas,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:26,,,
+Test,TC-104,2GR-B MW 89040_89096_1 Answer CTU/CMI and import back to NPS,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:27,,,
+Test,TC-103,2GR-B MW 89040_89096_1 Create ARTIFICIAL out put CTU/CMI files (CTU permission PDF file/ CMI project PDF file/ CMI project XLS file),Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:27,,,
+Test,TC-102,2GR-B MW 89040_89096_1 In CTU case,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:27,,,
+Test,TC-101,2GR-B MW 89040_89096_1 Review CTU requests,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:27,,,
+Test,TC-100,2GR-B MW 89040_89096_1 Create CTU request,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:27,,,
+Test,TC-99,2GR-B MW 89040_89096_1 Generate Softcode,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-98,2GR-B MW 89040_89096_1 Create Transmission Channel,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-97,2GR-B MW 89040_89096_1 Create Separate MW Link,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-96,2GR-B MW 89040_89096_1 Create NE in Site A and Site Z,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-95,2GR-B MW 89069_89083_1 Approve Plan - ???,Petr Ja?ek,Richard Stanek,,Open,Unresolved,1/21/2014 23:56,3/12/2014 13:29,,,
+Test,TC-94,2GR-B MW 89069_89083_1 Create and Print SD report,Richard Stanek,Richard Stanek,,Failed,Unresolved,1/21/2014 23:56,2/13/2014 16:03,7-Feb-14,,NC-958
+Test,TC-93,2GR-B MW 89069_89083_1 Create IDU and populate it,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-92,2GR-B MW 89069_89083_1 Select Frequency Channel for Radio-Units,Richard Stanek,Richard Stanek,Blocker,Failed,Unresolved,1/21/2014 23:56,2/26/2014 18:19,28-Feb-14,,NC-989
+Test,TC-91,2GR-B MW 89069_89083_1 Assign Devices to NEs,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:28,,,
+Test,TC-90,2GR-B MW 89069_89083_1 Create ODU,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 20:29,,,
+Test,TC-89,2GR-B MW 89069_89083_1 Associate MW Antenna with MW Sector,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:50,,,
+Test,TC-88,2GR-B MW 89069_89083_1 Create MW Antennas,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:50,,,
+Test,TC-87,2GR-B MW 89069_89083_1 Answer CMI and import back to NPS,Michal Endr?t,Richard Stanek,Blocker,Open,Unresolved,1/21/2014 23:56,3/10/2014 14:24,7-Feb-14,,
+Test,TC-86,2GR-B MW 89069_89083_1 Create Fake out put CTU/CMI files (CTU permission PDF file/ CMI project PDF file/ CMI project XLS file),Michal Endr?t,Richard Stanek,Blocker,Open,Unresolved,1/21/2014 23:56,3/10/2014 14:24,7-Feb-14,,
+Test,TC-85,2GR-B MW 89069_89083_1 Review CMI requests,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:51,,,
+Test,TC-84,2GR-B MW 89069_89083_1 Create CMI request,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:54,,,
+Test,TC-83,2GR-B MW 89069_89083_1 Generate Softcode,Richard Stanek,Richard Stanek,Blocker,Failed,Unresolved,1/21/2014 23:56,3/4/2014 19:25,7-Feb-14,,NC-1152
+Test,TC-82,2GR-B MW 89069_89083_1 Create Transmission Channel,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:54,,,
+Test,TC-81,2GR-B MW 89069_89083_1 Create Separate MW Link,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:54,,,
+Test,TC-80,2GR-B MW 89069_89083_1 Create NE in Site A and Site Z,Richard Stanek,Richard Stanek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:54,,,
+Test,TC-79,2GR-B MW 2.4_89052_1 Create IDU and populate it 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,2/25/2014 1:19,7-Feb-14,,
+Test,TC-78,2GR-B MW 2.4_89052_1 Create Transmission Channel 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 21:07,7-Feb-14,,NC-737
+Test,TC-77,2GR-B MW 2.4_89052_1 Create Separate MW Link 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 21:08,7-Feb-14,,NC-714
+Test,TC-76,2GR-B MW 2.4_89052_1 Create NE in Site A and Site Z 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:55,,,
+Test,TC-75,2GR-B MW 89034_2.4_1 Create IDU and populate it 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,2/25/2014 1:16,7-Feb-14,,
+Test,TC-74,2GR-B MW 89034_2.4_1 Create Transmission Channel 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:55,,,
+Test,TC-73,2GR-B MW 89034_2.4_1 Create Separate MW Link 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:55,,,
+Test,TC-72,2GR-B MW 89034_2.4_1 Create NE in Site A and Site Z 4x2+Eth 70 Mb,Richard Stanek,Richard Stanek,,Passed,Unresolved,1/21/2014 23:56,2/19/2014 13:36,,,
+Test,TC-71,2GR-C MW 89096_89099_1 Create Separate MW Link,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:55,,,
+Test,TC-70,2GR-C MW 89001_89099_1 Select Frequency Channel for Radio-Units,Michal Endr?t,Michal Endr?t,,Started,Unresolved,1/21/2014 23:56,2/17/2014 17:09,11-Apr-14,,NC-929
+Test,TC-69,2GR-C MW 89001_89099_1 Create ODU,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:56,,,
+Test,TC-68,2GR-C MW 89001_89099_1 Associate MW Antenna with MW Sector,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:56,,,
+Test,TC-67,2GR-C MW 89001_89099_1 Create MW Antennas,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:56,,,
+Test,TC-66,2GR-C MW 89001_89099_1 Create Transmission Channel,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:56,,,
+Test,TC-65,2GR-C MW 89001_89099_1 Create Separate MW Link,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:57,,,
+Test,TC-64,2GR-C MW 89001_89069_1 Create ODU,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:57,,,
+Test,TC-63,2GR-C MW 89001_89069_1 Associate MW Antenna with MW Sector,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:57,,,
+Test,TC-62,2GR-C MW 89001_89069_1 Create MW Antennas,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:57,,,
+Test,TC-61,2GR-C MW 89001_89069_1 Create Transmission Channel,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:00,,,
+Test,TC-60,2GR-C MW 89001_89069_1 Create Separate MW Link,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-59,2GR-C Create DEV BTS 89099,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 18:32,,,"NC-535, NC-987, NC-856, NC-406"
+Test,TC-58,2GR-B Create DEV BTS 89040.2,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 18:28,,,"NC-535, NC-987, NC-856, NC-406"
+Test,TC-57,2GR-B Create DEV BTS 89040.1,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 18:34,,,"NC-535, NC-987, NC-856, NC-406"
+Test,TC-56,2GR-B Create DEV BTS 89052,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 20:56,,,"NC-1022, NC-987, NC-856, NC-406"
+Test,TC-55,2GR-B Create DEV BTS 89083,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/27/2014 20:55,,,"NC-535, NC-987, NC-856, NC-406"
+Test,TC-54,2GR-A Create DEV BTS 80082,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 18:53,,,"NC-535, NC-987, NC-856, NC-406"
+Test,TC-53,2GR-C Create Abis 6.1,Milan St???,Milan St???,,Passed,Unresolved,1/21/2014 23:56,2/5/2014 18:15,5-Feb-14,,
+Test,TC-52,2GR-C Create DEV BSC 6,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-51,2GR-C Create NE BSC 6,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-50,2GR-C Create Site 6,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-49,2GR-B Create Abis 5.1.1 1. log. BTS,Milan St???,Milan St???,,Passed,Unresolved,1/21/2014 23:56,2/5/2014 18:14,5-Feb-14,,
+Test,TC-48,2GR-B Create Abis 5.1.2 2. log. BTS,Radim ?im?k,Radim ?im?k,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-47,2GR-B Create DEV BSC 5,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:58,,,
+Test,TC-46,2GR-B Create NE BSC 5,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:00,,,
+Test,TC-45,2GR-B Create Site 5,Ji?? Petr?ela,Ji?? Petr?ela,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:59,,,
+Test,TC-44,2GR-B Create Abis 2.3,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:59,,,
+Test,TC-43,2GR-B Create Abis 2.1,Milan St???,Milan St???,,Passed,Unresolved,1/21/2014 23:56,2/5/2014 18:14,5-Feb-14,,
+Test,TC-42,2GR-A Create Abis 1.1,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 22:59,,,
+Test,TC-41,- Sites/ NE(BTS NE) Open graphical view and filter objects by type and plan attributes (Program/ Cluster/ Solution/ Change Set),Ji?? Petr?ela,Ji?? Petr?ela,,Failed,Unresolved,1/21/2014 23:56,2/10/2014 20:15,7-Feb-14,,NC-1089
+Test,TC-40,2GR-A Create Create ACC LL 1-1.1,Old?ich Bedn??,MIlan Franek,Blocker,Failed,Unresolved,1/21/2014 23:56,3/11/2014 14:52,7-Mar-14,,"NC-485, NC-486, NC-469"
+Test,TC-39,2GR-C Verify Ran Attributes,Pavel Stamenov,Pavel Stamenov,,Conditionally Passed,Unresolved,1/21/2014 23:56,1/24/2014 18:27,,,"NC-798, NC-626, NC-819, NC-406"
+Test,TC-38,2GR-C Create frequency hopping group/ frequency channel,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:00,,,
+Test,TC-37,2GR-C Create ISP cables Including Cables between RRUs and GTMU,Pavel Stamenov,Pavel Stamenov,,Started,Unresolved,1/21/2014 23:56,2/28/2014 19:37,,,NC-729
+Test,TC-36,2GR-C Create BBU & GTMU in general RACK,Pavel Stamenov,Pavel Stamenov,Blocker,Failed,Unresolved,1/21/2014 23:56,3/11/2014 14:52,14-Mar-14,,NC-873
+Test,TC-35,2GR-C Create RRU devices all types,Pavel Stamenov,Pavel Stamenov,Blocker,Conditionally Passed,Unresolved,1/21/2014 23:56,2/28/2014 19:36,13-Mar-14,,"NC-987, NC-856"
+Test,TC-34,2GR-C Create ISP cables/ also between racks(cards),Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:00,,,
+Test,TC-33,2GR-C Insert BBU/ GTMU/ RFU cards,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:00,,,
+Test,TC-32,2GR-C Create Rack BTS3900/ BTS3900A/ BTS3900L configuration as AS-IS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:01,,,
+Test,TC-31,2GR-C Verify Attributes,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:01,,,
+Test,TC-30,2GR-C Create TRx + reference ->cell/ fre.band,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:01,,,
+Test,TC-29,2GR-C Create reference Cell -> SubAnt,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:01,,,
+Test,TC-28,2GR-C Create reference Antena -> AS 89001,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:01,,,
+Test,TC-27,2GR-C Create Antena sector 89001,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-26,2GR-C Create Pylon 89001,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-25,2GR-C Create NE BTS 89001,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-24,2GR-C Create Site 89001 configuration as AS-IS,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-23,2GR-B Create NE BTS 89040.2,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-22,2GR-B Create NE BTS 89040.1,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:02,,,
+Test,TC-21,2GR-B Create Site 89040,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:03,,,
+Test,TC-20,2GR-B Create NE BTS 89052,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:03,,,
+Test,TC-19,2GR-B Create Site 89052,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:03,,,
+Test,TC-18,2GR-B Create NE BTS 89083,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:03,,,
+Test,TC-17,2GR-B Create Site 89083,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:03,,,
+Test,TC-16,2GR-A Create NE BTS 80082,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-15,2GR-A Create Site 80082,Pavel Stamenov,Pavel Stamenov,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-14,INV Assign A-bis 89034->80099,Petr Ja?ek,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:35,7-Mar-14,,
+Test,TC-13,INV Assign A-bis 89069->80099,Radim ?im?k,Radim ?im?k,,Skip Test,Unresolved,1/21/2014 23:56,3/6/2014 18:35,7-Mar-14,,
+Test,TC-12,INV Create MW 89034_89069,Michal Endr?t,Michal Endr?t,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-11,INV Create A-bis 89034->80099,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-10,INV Create BTS 89034,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-9,INV Create TN 89034.1,Petr Ja?ek,Petr Ja?ek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-8,INV Create Site 89034,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:04,,,
+Test,TC-7,INV Create MW 80099-89069,MIlan Franek,MIlan Franek,Minor,Passed,Unresolved,1/21/2014 23:56,2/14/2014 19:24,31-Jan-14,,"NC-485, NC-486, NC-469"
+Test,TC-6,INV Create A-bis 2->80099,Radim ?im?k,Radim ?im?k,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:05,,,
+Test,TC-5,INV Create TN 89069,Petr Ja?ek,Petr Ja?ek,Blocker,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:05,,,
+Test,TC-4,INV Create BTS 89069,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:05,,,
+Test,TC-3,INV Create Site 89069,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:05,,,
+Test,TC-2,INV Create BSC 80099,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:06,,,
+Test,TC-1,INV Create Site 80099,Petr Ja?ek,Petr Ja?ek,,Passed,Unresolved,1/21/2014 23:56,1/31/2014 23:06,,,
